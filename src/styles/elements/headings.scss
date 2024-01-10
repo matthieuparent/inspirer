@@ -1,0 +1,153 @@
+/* ==========================================================================
+   HEADINGS / ELEMENT
+   ========================================================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.title-primary {
+    font-family: var(--font-primary);
+    font-weight: bold;
+    line-height: 1.4;
+    color: inherit;
+}
+
+h1,
+.title-primary {
+    font-family: var(--font-title-primary);
+    line-height: 1;
+    font-weight: normal;
+    margin: 0;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    @include fluid-type(34px, 84px);
+
+    strong,
+    span {
+        font-family: var(--font-title-secondary);
+        display: block;
+        font-size: 1.75em;
+        letter-spacing: 0;
+        text-align: center;
+        font-weight: normal;
+        text-transform: none;
+    }
+}
+
+h2 {
+    font-family: var(--font-title-secondary);
+    font-weight: normal;
+    @include fluid-type(36px, 86px);
+    line-height: 1.2;
+    margin: 0;
+}
+
+h3 {
+    font-family: var(--font-title-primary);
+    @include fluid-type(28px, 42px);
+    line-height: 1.2;
+    margin: 0 0 var(--spacing-md);
+}
+
+h4 {
+    font-family: var(--font-title-primary);
+    @include fluid-type(16px, 39px);
+    line-height: 1;
+    margin: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+h5 {
+    font-family: var(--font-secondary);
+    font-weight: normal;
+    @include fluid-type(18px, 25px);
+    line-height: 1.2;
+    margin: 0;
+}
+
+h6 {
+    @include fluid-type(14px, 21px);
+    font-family: var(--font-secondary);
+    font-weight: 400;
+    margin: 0 0 var(--spacing-md);
+}
+.highlight {
+    font-weight: 600;
+}
+.title-number {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    span:first-child {
+        @include fluid-type(66px, 110px);
+    }
+    span:last-child {
+        margin-left: var(--spacing-sm);
+    }
+
+    @media screen and (max-width: $breakpoint-md) {
+        width: 100%;
+    }
+}
+.title {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: var(--spacing-lg);
+    .icon {
+        color: var(--color-senary);
+        width: 3em;
+        height: 3em;
+        margin-left: -3.5em;
+    }
+    h3 {
+        margin-bottom: 0;
+    }
+}
+.title__content {
+    margin-left: var(--spacing-sm);
+    margin-top: 5px;
+}
+.title__sub {
+    font-family: var(--font-title-secondary);
+    font-weight: normal;
+    @include fluid-type(24px, 48px);
+    line-height: 1.2;
+    letter-spacing: 1px;
+}
+
+.title--splash {
+    .icon {
+        width: 2em;
+        height: 2em;
+        margin-left: -2.2em;
+    }
+    .title__content {
+        margin-left: var(--spacing-xs);
+        margin-top: 0;
+    }
+}
+.section .title--one-line {
+    .title__content {
+        display: flex;
+        align-items: center;
+        margin-left: 0;
+
+        h3,
+        p {
+            margin-bottom: 0;
+        }
+        .title__sub {
+            margin-left: 10px;
+            @include fluid-type(34px, 65px);
+        }
+        .icon {
+            margin-left: 5px;
+            width: 2em;
+            height: 2em;
+        }
+    }
+}

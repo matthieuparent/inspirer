@@ -1,0 +1,3649 @@
+# Translation of RocketGenius - Gravity Forms in French (Canada)
+# This file is distributed under the same license as the RocketGenius - Gravity Forms package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-19 20:52:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr_CA\n"
+"Project-Id-Version: RocketGenius - Gravity Forms\n"
+
+#: js.php:1473
+msgid "Select a field"
+msgstr "Sélectionnez un champ"
+
+#: js.php:1347
+msgid "Ajax error while changing input type"
+msgstr "Erreur Ajax lors du changement de type de champ"
+
+#: js.php:1227
+msgid "Ajax error while adding field"
+msgstr "Erreur Ajax lors de l’ajout du champ"
+
+#: js.php:1191
+msgid "You must add a product field to the form first"
+msgstr "Vous devez d’abord ajouter un champ de produit au formulaire"
+
+#: js.php:1184
+msgid "Only one credit card field can be added to the form"
+msgstr "Vous ne pouvez ajouter qu’un seul champ de carte de crédit au formulaire"
+
+#: js.php:1178
+msgid "Only one Post Excerpt field can be added to the form"
+msgstr "Un seul champ d’extrait d’article peut être ajouté au formulaire"
+
+#: js.php:1172
+msgid "Only one Post Title field can be added to the form"
+msgstr "Un seul champ de titre d’article peut être ajouté au formulaire"
+
+#: js.php:1166
+msgid "Only one Post Content field can be added to the form"
+msgstr "Un seul champ de contenu d’article peut être ajouté au formulaire"
+
+#: js.php:1159
+msgid "Only one Shipping field can be added to the form"
+msgstr "Un seul champ de livraison peut être ajouté au formulaire"
+
+#: js.php:1152
+msgid "Only one reCAPTCHA field can be added to the form"
+msgstr "Un seul champ reCAPTCHA peut être ajouté au formulaire."
+
+#: common.php:5285
+msgid "Rev."
+msgstr "Rev."
+
+#: common.php:5284
+msgid "Prof."
+msgstr "Prof."
+
+#: common.php:5283
+msgid "Dr."
+msgstr "Dr"
+
+#: common.php:5282
+msgid "Ms."
+msgstr "Mlle"
+
+#: common.php:5281
+msgid "Miss"
+msgstr "Mlle"
+
+#: common.php:5280
+msgid "Mrs."
+msgstr "Mme"
+
+#: common.php:5279
+msgid "Mr."
+msgstr "M."
+
+#: js.php:1071
+msgid "AM/PM"
+msgstr "AM/PM"
+
+#: js.php:922
+msgid "Donation"
+msgstr "Don"
+
+#: js.php:911
+msgid "Third Option"
+msgstr "Troisième option"
+
+#: js.php:911
+msgid "Second Option"
+msgstr "Deuxième option"
+
+#: js.php:911
+msgid "First Option"
+msgstr "Première option"
+
+#: js.php:866
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: js.php:847
+msgid "Post Custom Field"
+msgstr "Champ personnalisé de l’article"
+
+#: js.php:840
+msgid "Post Tags"
+msgstr "Étiquettes de l’article"
+
+#: js.php:835
+msgid "Post Excerpt"
+msgstr "Extrait d’article"
+
+#: js.php:831
+msgid "Post Body"
+msgstr "Corps d’article"
+
+#: js.php:827
+msgid "Post Title"
+msgstr "Titre d’article"
+
+#: js.php:823
+msgid "Hidden Field"
+msgstr "Champ masqué"
+
+#: js.php:759
+msgid "Card Type"
+msgstr "Type de carte"
+
+#: js.php:733
+msgid "State / Province"
+msgstr "État / Province"
+
+#: js.php:675 js.php:689 js.php:690 js.php:705 js.php:706
+msgid "Third Choice"
+msgstr "Troisième choix"
+
+#: js.php:675 js.php:689 js.php:690 js.php:705 js.php:706
+msgid "Second Choice"
+msgstr "Deuxième choix"
+
+#: js.php:675 js.php:689 js.php:690 js.php:705 js.php:706
+msgid "First Choice"
+msgstr "Premier choix"
+
+#: js.php:672 js.php:685 js.php:698 js.php:980
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: js.php:646
+msgid "HTML Block"
+msgstr "Bloc HTML"
+
+#: js.php:630
+msgid "Section Break"
+msgstr "Saut de section"
+
+#: js.php:557
+msgid ""
+"Your form currently has an option field without a product field.\n"
+"You must add a product field to your form."
+msgstr ""
+"Votre formulaire possède un champ d’option sans champ de produit.\n"
+"Vous devez ajouter un champ de produit à votre formulaire."
+
+#: js.php:548
+msgid ""
+"Your form currently has a product field with a blank label.\n"
+"Please enter a label for all product fields."
+msgstr ""
+"Votre formulaire possède un champ de produit avec un libellé vide.\n"
+"Veuillez saisir un libellé pour chaque champ de produit."
+
+#: js.php:540
+msgid "Your form currently has one or more pages without any fields in it. Blank pages are a result of Page Breaks that are positioned as the first or last field in the form or right after each other. Please adjust your Page Breaks and try again."
+msgstr "Votre formulaire a actuellement une ou plusieurs pages qui ne contiennent pas de champs. Les pages vides sont le résultat des Sauts de page qui sont placés au début ou à la fin du formulaire ou l’un après l'autre. Veuillez ajuster vos Sauts de page et essayez de nouveau."
+
+#: js.php:529
+msgid "Please enter a Title for this form. When adding the form to a page or post, you will have the option to hide the title."
+msgstr "Veuillez saisir un titre pour ce formulaire. Lors de l’intégration du formulaire à un article ou une page, vous aurez la possibilité de masquer ce titre."
+
+#: js.php:523
+msgid "The form title you have entered is already taken. Please enter a unique form title"
+msgstr "Le titre de formulaire que vous avez saisi est déjà utilisé. Veuillez saisir un titre de formulaire unique"
+
+#: js.php:508
+msgid "Column 3"
+msgstr "Colonne 3"
+
+#: js.php:508
+msgid "Column 2"
+msgstr "Colonne 2"
+
+#: js.php:508
+msgid "Column 1"
+msgstr "Colonne 1"
+
+#: js.php:481
+msgid "Deleted Field"
+msgstr "Champ supprimé"
+
+#: js.php:463
+msgid "This field is not associated with a product. Please add a Product Field to the form."
+msgstr "Ce champ n’est associé à aucun produit. Veuillez ajouter un champ de produit au formulaire."
+
+#: js.php:360
+msgid "Same as previous"
+msgstr "Comme le précédent"
+
+#: js.php:277
+msgid "Custom Sub-Label"
+msgstr "Sous-libellé personnalisé :"
+
+#: js.php:269
+msgid "Sub-Label:"
+msgstr "Sous-libellé :"
+
+#: js.php:215
+msgid "Placeholder:"
+msgstr "Espace réservé :"
+
+#: js.php:191
+msgid "Default Value:"
+msgstr "Valeur par défaut :"
+
+#: js.php:170
+msgid "Parameter Name"
+msgstr "Nom du paramètre"
+
+#: js.php:165
+msgid "Parameter Name:"
+msgstr "Nom du paramètre :"
+
+#: js.php:147
+msgid "Select a category"
+msgstr "Sélectionnez une catégorie"
+
+#: js.php:118
+msgid "Completed"
+msgstr "Terminé"
+
+#: common.php:5308 js.php:67
+msgid "To use conditional logic, please create a field that supports conditional logic."
+msgstr "Pour utiliser les conditions logiques, veuillez créer un champ les supporte."
+
+#: js.php:56
+msgid "Item has been saved."
+msgstr "L'élément a été enregistré."
+
+#: js.php:37
+msgid "This custom choice name is already in use. Please enter another name."
+msgstr "Ce nom de choix personnalisé est déjà utilisé. Veuillez saisir un autre nom."
+
+#: js.php:33
+msgid "Please enter name."
+msgstr "Veuillez saisir le nom."
+
+#: js.php:26
+msgid "Item has been deleted."
+msgstr "L’élément a été supprimé."
+
+#: js.php:12
+msgid "Delete this custom choice list? 'OK' to delete, 'Cancel' to abort."
+msgstr "Supprimer cette liste de choix personnalisés ? « OK » pour supprimer, « Annuler » pour abandonner."
+
+#: select_columns.php:221
+msgid "Inactive Columns"
+msgstr "Colonnes inactives"
+
+#: select_columns.php:208
+msgid "Active Columns"
+msgstr "Colonnes actives"
+
+#: select_columns.php:48
+msgid "Oops! We could not locate your form. Please try again."
+msgstr "Aïe ! Nous n’avons pas retrouvé votre formulaire. Veuillez réessayer."
+
+#: settings.php:823
+msgid "Validate Keys"
+msgstr "Validation des clés"
+
+#: settings.php:795
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+#: settings.php:785
+msgid "Site Key"
+msgstr "Clé de site"
+
+#: settings.php:779
+msgid "Read more about reCAPTCHA."
+msgstr "En savoir plus sur reCAPTCHA"
+
+#: settings.php:773
+msgid "reCAPTCHA Settings"
+msgstr "Réglages reCAPTCHA"
+
+#: settings.php:465
+msgid "Logging"
+msgstr "Journalisation"
+
+#: settings.php:392
+msgid "Support License Key"
+msgstr "Clé de licence pour le support"
+
+#: settings.php:270
+msgid "Warning! ALL Gravity Forms data, including form entries will be deleted. This cannot be undone. 'OK' to delete, 'Cancel' to stop"
+msgstr "Avertissement ! Toutes les données de Gravity Forms, incluant les entrées vont être supprimées. Vous ne pourrez pas revenir en arrière. « OK » pour supprimer, « Annuler » pour arrêter."
+
+#: settings.php:244
+msgid "Gravity Forms has been successfully uninstalled. It can be re-activated from the %splugins page%s."
+msgstr "Gravity Forms a bien été désinstallé. Vous pouvez le réactiver à partir de la %spage des extensions%s."
+
+#: settings.php:169
+msgid "You don't have adequate permission to uninstall Gravity Forms."
+msgstr "Vous n’avez pas les permissions nécessaires pour désinstaller Gravity Forms."
+
+#: common.php:6867
+msgid "Select the visibility for this field."
+msgstr "Sélectionnez la visibilité de ce champ."
+
+#: common.php:6836
+msgid "The field is only visible when administering submitted entries. The field is not visible or functional when viewing the form."
+msgstr "Ce champ est visible uniquement pendant l’administration des entrées envoyées. Ce champ n’est pas visible ou fonctionnel lorsque le formulaire est vu."
+
+#: common.php:6834
+msgid "Administrative"
+msgstr "Administration"
+
+#: common.php:6831
+msgid "The field is hidden when viewing the form. Useful when you require the functionality of this field but do not want the user to be able to see this field."
+msgstr "Ce champ est masqué quand le formulaire est affiché. Utile si vous avez besoin de la fonctionnalité de ce champ mais que vous ne voulez pas que l’utilisateur puisse le voir."
+
+#: common.php:6826
+msgid "Default option. The field is visible when viewing the form."
+msgstr "Option par défaut. Ce champ est visible quand le formulaire est affiché."
+
+#: common.php:6824
+msgid "Visible"
+msgstr "Visible"
+
+#: common.php:6101
+msgid "Cancel this upload"
+msgstr "Annuler cet envoi"
+
+#: common.php:6099
+msgid "Please wait for the uploading to complete"
+msgstr "Veuillez attendre la fin de l’envoi"
+
+#: common.php:6098
+msgid "There was a problem while saving the file on the server"
+msgstr "Une erreur s’est produite lors de la sauvegarde du fichier sur le serveur"
+
+#: common.php:6097
+msgid "Maximum number of files reached"
+msgstr "Nombre de fichiers maximal atteint"
+
+#: common.php:6096
+msgid "This type of file is not allowed."
+msgstr "Ce type de fichier n’est pas autorisé."
+
+#: common.php:6095
+msgid "File exceeds size limit"
+msgstr "Le fichier dépasse la taille autorisée."
+
+#: common.php:6094
+msgid "in progress"
+msgstr "en cours"
+
+#: common.php:6093
+msgid "Delete this file"
+msgstr "Supprimer ce fichier"
+
+#: common.php:6092
+msgid "This type of file is not allowed. Must be one of the following: "
+msgstr "Ce type de fichier n’est pas autorisé. Seuls les formats suivants sont autorisés :"
+
+#: common.php:5897 common.php:6102
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: common.php:5872
+msgid "Transaction ID"
+msgstr "ID de la transaction"
+
+#: common.php:5853
+msgid "Source URL"
+msgstr "URL source"
+
+#: common.php:5835
+msgid "Starred"
+msgstr "Favoris"
+
+#: common.php:5718
+msgid "Any form field"
+msgstr "N’importe quel champ"
+
+#: common.php:5261
+msgid "Predefined Choices"
+msgstr "Choix prédéfinis"
+
+#: common.php:5260
+msgid "Custom Choices"
+msgstr "Choix personnalisés"
+
+#: common.php:5257
+msgid "Remove a condition"
+msgstr "Retirer une condition"
+
+#: common.php:5256
+msgid "Add a condition"
+msgstr "Ajouter une condition"
+
+#: common.php:5247
+msgid "Merge tags allow you to dynamically populate submitted field values in your form content wherever this merge tag icon is present."
+msgstr "Les fusions de balises vous permettent de renseigner dynamiquement des valeurs de champ dans le contenu du formulaire partout où l’icône fusion de balise est présente."
+
+#: common.php:5247
+msgid "Merge Tags"
+msgstr "Fusion de balises"
+
+#: common.php:5245
+msgid "This form contains conditional logic dependent upon this field. Are you sure you want to mark this field as Admin Only? 'OK' to confirm, 'Cancel' to abort."
+msgstr "Ce formulaire comporte des logiques conditionnelles qui dépendent de ce champ. Voulez-vous malgré tout supprimer ce champ ? « OK » pour supprimer, « Annuler » pour abandonner."
+
+#: common.php:5244
+msgid "This form contains conditional logic dependent upon this choice. Are you sure you want to modify this choice? 'OK' to delete, 'Cancel' to abort."
+msgstr "Ce formulaire comporte des logiques conditionnelles qui dépendent de ce choix. Voulez-vous malgré tout modifier ce choix ? « OK » pour supprimer, « Annuler » pour abandonner."
+
+#: common.php:5243
+msgid "This form contains conditional logic dependent upon this choice. Are you sure you want to delete this choice? 'OK' to delete, 'Cancel' to abort."
+msgstr "Ce formulaire comporte des logiques conditionnelles qui dépendent de ce choix. Voulez-vous malgré tout supprimer ce choix ? « OK » pour supprimer, « Annuler » pour abandonner."
+
+#: common.php:5242
+msgid "Warning! This form contains conditional logic dependent upon this field. Deleting this field will deactivate those conditional logic rules and also delete all entry data associated with the field. 'OK' to delete, 'Cancel' to abort."
+msgstr "Avertissement ! Ce formulaire contient une logique conditionnelle dépendant de ce champ. La suppression de ce champ désactivera ces règles de logique conditionnelle et supprimera aussi toutes les entrées de données associées avec ce champ. « OK » pour supprimer, « Annuler » pour abandonner."
+
+#: common.php:5240
+msgid "Warning! Deleting this field will also delete all entry data associated with it. 'Cancel' to stop. 'OK' to delete."
+msgstr "Avertissement ! La suppression de ce champ entraînera la suppression de toutes les données qui y sont associées. « OK » pour supprimer, « Annuler » pour arrêter."
+
+#: common.php:5239
+msgid "Please enter a confirmation name."
+msgstr "Veuillez saisir un nom pour la confirmation."
+
+#: common.php:5238
+msgid "Please enter a URL."
+msgstr "Veuillez saisir une URL."
+
+#: common.php:5237
+msgid "Please select a page."
+msgstr "Veuillez sélectionner une page."
+
+#: common.php:5235
+msgid "Untitled Confirmation"
+msgstr "Confirmation sans titre"
+
+#: common.php:5234
+msgid "There are unsaved changes to the current confirmation. Would you like to discard these changes?"
+msgstr "Les changements apportés à cette confirmation n’ont pas été enregistrés. Voulez-vous vraiment annuler ces changements ?"
+
+#: common.php:5232
+msgid "Are you sure you wish to delete this confirmation?"
+msgstr "Voulez-vous vraiment supprimer cette confirmation ?"
+
+#: common.php:5230
+msgid "Are you sure you wish to cancel these changes?"
+msgstr "Voulez-vous vraiment annuler ces modifications ?"
+
+#: common.php:5229
+msgid "Saving..."
+msgstr "Enregistrement..."
+
+#: common.php:5227
+msgid "Send this notification if"
+msgstr "Envoyer cette notification si"
+
+#: common.php:5226
+msgid "Use this confirmation if"
+msgstr "Utiliser cette confirmation si"
+
+#: common.php:5215
+msgid "of the following match:"
+msgstr "l(d)es critères suivants correspondent :"
+
+#: common.php:5214
+msgctxt "Conditional Logic"
+msgid "Any"
+msgstr "Certains"
+
+#: common.php:5213
+msgctxt "Conditional Logic"
+msgid "All"
+msgstr "Tous"
+
+#: common.php:5195
+msgid "Hide"
+msgstr "Masquer"
+
+#: common.php:5194 js.php:275
+msgid "Show"
+msgstr "Afficher"
+
+#: common.php:5193
+msgid "this form button if"
+msgstr "ce bouton de formulaire si"
+
+#: common.php:5191
+msgid "this section if"
+msgstr "cette section si"
+
+#: common.php:5190
+msgid "this field if"
+msgstr "ce champ si"
+
+#: common.php:5186
+msgid "We would love to hear from you! Please fill out this form and we will get in touch with you shortly."
+msgstr "N’hésitez pas à communiquer avec nous ! Veuillez remplir ce formulaire et nous vous répondrons dans les plus brefs délais."
+
+#: common.php:5185
+msgid "Untitled Form"
+msgstr "Formulaire sans titre"
+
+#: common.php:5184
+msgid "Enter a value"
+msgstr "Saisir une valeur"
+
+#: common.php:5182
+msgid "5 of %d items shown. Edit field to view all"
+msgstr "5 éléments sur %d affichés. Modifiez le champ pour tout afficher."
+
+#: common.php:5180
+msgid "Select a format"
+msgstr "Sélectionnez un format"
+
+#: common.php:3199
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#. translators: %s: relative time from now, used for generic date comparisons.
+#. "1 day ago", or "20 seconds ago"
+#: common.php:1339 common.php:3186
+msgid "%s ago"
+msgstr "Il y a %s"
+
+#: common.php:3042
+msgid "Gravity Forms requires WordPress %s or greater. You must upgrade WordPress in order to use Gravity Forms"
+msgstr "Gravity Forms nécessite la version %s ou plus récente de WordPress. Vous devez mettre WordPress à jour pour utiliser cette version de Gravity Forms."
+
+#: common.php:1794
+msgid "Total:"
+msgstr "Total :"
+
+#: common.php:913
+msgid "Allowable form fields"
+msgstr "Champs admissibles"
+
+#: common.php:896
+msgid "Full Size - Right Aligned"
+msgstr "Pleine grandeur - Alignée à droite"
+
+#: common.php:895
+msgid "Full Size - Centered"
+msgstr "Taille originale - Centrée"
+
+#: common.php:894
+msgid "Full Size - Left Aligned"
+msgstr "Taille originale - Alignée à gauche"
+
+#: common.php:893
+msgid "Full Size"
+msgstr "Taille originale"
+
+#: common.php:891
+msgid "Large - Right Aligned"
+msgstr "Grande - Alignée à droite"
+
+#: common.php:890
+msgid "Large - Centered"
+msgstr "Grande - Centrée"
+
+#: common.php:889
+msgid "Large - Left Aligned"
+msgstr "Grande - Alignée à gauche"
+
+#: common.php:886
+msgid "Medium - Right Aligned"
+msgstr "Moyenne - Alignée à droite"
+
+#: common.php:885
+msgid "Medium - Centered"
+msgstr "Moyenne - Centrée"
+
+#: common.php:884
+msgid "Medium - Left Aligned"
+msgstr "Moyenne - Alignée à gauche"
+
+#: common.php:881
+msgid "Thumbnail - Right Aligned"
+msgstr "Miniature - Alignée à droite"
+
+#: common.php:880
+msgid "Thumbnail - Centered"
+msgstr "Miniature - Centrée"
+
+#: common.php:879
+msgid "Thumbnail - Left Aligned"
+msgstr "Miniature - Alignée à gauche"
+
+#: common.php:878
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: common.php:877
+msgid "Select image size"
+msgstr "Sélectionnez la taille de l’image"
+
+#: common.php:779
+msgid "Pricing form fields"
+msgstr "Champs de prix"
+
+#: common.php:775
+msgid "Optional form fields"
+msgstr "Champs optionnels"
+
+#: common.php:771
+msgid "Required form fields"
+msgstr "Champs nécessaires"
+
+#: common.php:749
+msgid "Post Edit URL"
+msgstr "URL de modification de l’article"
+
+#: common.php:740
+msgid "Form Id"
+msgstr "ID du formulaire"
+
+#: common.php:739
+msgid "Entry URL"
+msgstr "URL de l’entrée"
+
+#: common.php:711
+msgid "All Pricing Fields"
+msgstr "Tous les champs de prix"
+
+#: common.php:638 js.php:1473
+msgid "All Submitted Fields"
+msgstr "Tous les champs envoyés"
+
+#: gravityforms.php:6029
+msgid "Forms per page"
+msgstr "Formulaires par page"
+
+#: gravityforms.php:5833
+msgid "Select an action for this shortcode. Actions are added by some add-ons."
+msgstr "Sélectionnez une action pour ce code court. Des actions sont ajoutées par certains modules."
+
+#: gravityforms.php:5821
+msgid "Select an action"
+msgstr "Sélectionnez une action"
+
+#: gravityforms.php:5806
+msgid "Specify the starting tab index for the fields of this form."
+msgstr "Indiquer l’onglet de départ pour les champs de ce formulaire."
+
+#: gravityforms.php:5800
+msgid "Specify whether or not to use Ajax to submit the form."
+msgstr "Utiliser ou non AJAX pour soumettre le formulaire."
+
+#: gravityforms.php:5793
+msgid "Whether or not to display the form description."
+msgstr "Afficher ou non la description du formulaire."
+
+#: gravityforms.php:5785
+msgid "Whether or not to display the form title."
+msgstr "Afficher ou non le titre du formulaire."
+
+#: gravityforms.php:5776
+msgid "Can't find your form? Make sure it is active."
+msgstr "Vous ne trouvez pas votre formulaire ? Assurez-vous qu’il soit actif."
+
+#: gravityforms.php:5772
+msgid "Select a form from the list to add it to your post or page."
+msgstr "Sélectionnez un formulaire de la liste pour l’ajouter à votre page ou article."
+
+#: gravityforms.php:5771
+msgid "Select a form below to add it to your post or page."
+msgstr "Sélectionnez un formulaire ci-dessous et intégrez-le à votre page ou article."
+
+#: gravityforms.php:5333
+msgid "All Forms"
+msgstr "Tous les formulaires"
+
+#: gravityforms.php:5257
+msgid "Recent"
+msgstr "Récent"
+
+#: gravityforms.php:5039
+msgid "View entries generated by this form"
+msgstr "Voir les entrées générées par ce formulaire"
+
+#: gravityforms.php:5023
+msgid "Edit settings for this form"
+msgstr "Modifier les réglages de ce formulaire"
+
+#: gravityforms.php:5009 gravityforms.php:5010
+msgid "Editor"
+msgstr "Éditeur"
+
+#: gravityforms.php:4448 gravityforms.php:4464
+msgid "Oops! There was an error saving the form title. Please refresh the page and try again."
+msgstr "Aïe ! Une erreur s’est produite lors de l’enregistrement du titre de formulaire. Veuillez rafraîchir la page et essayer à nouveau."
+
+#: gravityforms.php:3873
+msgid "The %sSend To%s email address provided is not valid."
+msgstr "L’adresse e-mail du %sdestinataire%s n’est pas valide."
+
+#: gravityforms.php:3869
+msgid "No notifications have been selected. Please select a notification to be sent."
+msgstr "Aucune notification n’a été sélectionné. Veuillez sélectionner une notification à envoyer."
+
+#: gravityforms.php:3863
+msgid "There was an error while resending the notifications."
+msgstr "Une erreur s’est produite lors du renvoi des notifications."
+
+#: gravityforms.php:3440
+msgid "Add-On browser is currently unavailable. Please try again later."
+msgstr "Le navigateur de modules n’est pas disponible actuellement. Veuillez réessayer plus tard."
+
+#: gravityforms.php:2973
+msgid "Failed to load the preview for this form."
+msgstr "Échec au chargement de la prévisualisation de ce formulaire."
+
+#: gravityforms.php:2972
+msgid "Please select a form."
+msgstr "Veuillez sélectionner un formulaire"
+
+#: gravityforms.php:2514
+msgid "Dismiss"
+msgstr "Rejeter"
+
+#: gravityforms.php:2511
+msgid "There is an update available for Gravity Forms. %sView Details%s"
+msgstr "Il y a une mise à jour disponible pour Gravity Forms. %sVoir les détails%s"
+
+#: gravityforms.php:2481
+msgid "You don't have any forms. Let's go %screate one %s!"
+msgstr "Vous n’avez aucun formulaire. %sCréez-en un%s !"
+
+#: gravityforms.php:2474
+msgid "View All Forms"
+msgstr "Voir tous les formulaires"
+
+#: gravityforms.php:2462
+msgid "View All Entries"
+msgstr "Voir toutes les entrées"
+
+#: gravityforms.php:2459
+msgid "Last Entry: %s"
+msgstr "Dernière entrée : %s"
+
+#: gravityforms.php:2437
+msgid "Unread"
+msgstr "Non-lus"
+
+#: gravityforms.php:2388
+msgid "Oops!! Something went wrong. %sPlease try again or %scontact us%s."
+msgstr "Aïe ! Une erreur s’est produite.%sVeuillez essayer de nouveau ou %snous contacter%s."
+
+#. translators: %s: version number
+#: gravityforms.php:2329
+msgid "The versions of the following add-ons you're running haven't been tested with Gravity Forms %s. Please update them or confirm compatibility before updating Gravity Forms, or you may experience issues:"
+msgstr "Les versions des modules complémentaires suivants que vous exécutez n'ont pas été testées avec Gravity Forms %s. Veuillez les mettre à jour ou confirmer la compatibilité avant de mettre à jour Gravity Forms, ou vous pouvez rencontrer des problèmes:"
+
+#: gravityforms.php:2309
+msgid "IMPORTANT: As this is a major update, we strongly recommend creating a backup of your site before updating."
+msgstr "IMPORTANT: Comme il s'agit d'une mise à jour majeure, nous vous recommandons fortement de créer une sauvegarde de votre site avant la mise à jour."
+
+#: gravityforms.php:2263
+msgid "%sRegister%s your copy of Gravity Forms to receive access to automatic upgrades and support. Need a license key? %sPurchase one now%s."
+msgstr "%sEnregistrez%s votre copie de Gravity Forms afin d’accéder aux mises à jour automatiques et au support. Besoin d’une clé de licence ? %sAchetez-en une dès maintenant%s."
+
+#: gravityforms.php:2098
+msgid "Please select a form"
+msgstr "Veuillez sélectionner un formulaire"
+
+#: gravityforms.php:2083
+msgid "Add Form"
+msgstr "Ajouter un formulaire"
+
+#: gravityforms.php:2083
+msgid "Add Gravity Form"
+msgstr "Ajouter un Gravity Forms"
+
+#: gravityforms.php:1844
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#: gravityforms.php:1666
+msgid "Update Available"
+msgstr "Mise à jour disponible"
+
+#: gravityforms.php:1492 settings.php:163 settings.php:255 settings.php:269
+msgid "Uninstall Gravity Forms"
+msgstr "Désinstaller Gravity Forms"
+
+#: tooltips.php:172
+msgid "Check this box if you would like to use the rich text editor for this field."
+msgstr "Cochez cette case si vous voulez utiliser l’éditeur de texte riche."
+
+#: tooltips.php:172
+msgid "Use Rich Text Editor"
+msgstr "Utiliser l’éditeur de texte riche"
+
+#: tooltips.php:171
+msgid "Enter text to display at the top of the progress bar."
+msgstr "Saisissez le texte à afficher en haut de la barre de progression."
+
+#: tooltips.php:171
+msgid "Progress Bar Completion Text"
+msgstr "Texte de complétion de la barre de progression"
+
+#: tooltips.php:170
+msgid "Check this box if you would like the progress bar to display with the confirmation text."
+msgstr "Cochez cette case si vous voulez que la barre de progression s’affiche avec le texte de confirmation."
+
+#: tooltips.php:170
+msgid "Progress Bar Confirmation Display"
+msgstr "Affichage de la barre de progression lors de la confirmation"
+
+#: tooltips.php:169
+msgid "Enter a comma separated list of email addresses you would like to receive the selected notification emails."
+msgstr "Saisissez un liste d’adresses e-mail séparées par des virgules (CSV) auxquelles vous souhaitez envoyer les messages de notification sélectionnés."
+
+#: tooltips.php:169
+msgid "Override Notifications"
+msgstr "Passer outre les notifications"
+
+#: tooltips.php:168
+msgid "Tab Index Start Value"
+msgstr "Valeur de départ de l’index de tabulation"
+
+#: tooltips.php:167
+msgid "Conversion is the percentage of form views that generated an entry. If a form was viewed twice, and one entry was generated, the conversion will be 50%."
+msgstr "La taux de conversion est le pourcentage de vues du formulaire qui ont générées une entrée. Si un formulaire a été vu 2 fois et qu’une entrée a été générée, le taux de conversion sera de 50%."
+
+#: tooltips.php:167
+msgid "Entries Conversion"
+msgstr "Conversion des entrées"
+
+#: tooltips.php:165
+msgid "Please select the currency for your location.  Currency is used for pricing fields and price calculations."
+msgstr "Veuillez sélectionner la monnaie pour votre localisation. Elle est utilisée pour les champs et les calculs de prix."
+
+#: tooltips.php:163
+msgid "Enter your reCAPTCHA Secret Key, if you do not have a key you can register for one at the provided link.  reCAPTCHA is a free service."
+msgstr "Saisissez votre clé secrète reCAPTCHA, si vous n’en avez pas, vous pouvez en enregistrer une avec le lien fourni. reCAPTCHA est un service gratuit."
+
+#: tooltips.php:163
+msgid "reCAPTCHA Secret Key"
+msgstr "Clé secrète reCAPTCHA"
+
+#: tooltips.php:162
+msgid "Enter your reCAPTCHA Site Key, if you do not have a key you can register for one at the provided link.  reCAPTCHA is a free service."
+msgstr "Saisissez votre clé de site reCAPTCHA, si vous n’en avez pas, vous pouvez en enregistrer une avec le lien fourni. reCAPTCHA est un service gratuit."
+
+#: tooltips.php:162
+msgid "reCAPTCHA Site Key"
+msgstr "Clé reCAPTCHA du site"
+
+#: tooltips.php:161
+msgid "Select On or Off to enable or disable no-conflict mode. Setting this to On will prevent extraneous scripts and styles from being printed on Gravity Forms admin pages, reducing conflicts with other plugins and themes."
+msgstr "Sélectionnez Activé ou Désactivé pour activer ou désactiver le mode sans conflit. Activer ce réglage permet de prévenir l’ajout de styles et de scripts non nécessaires sur les pages d’administration de Gravity Forms réduisant ainsi les conflits potentiels avec d’autres extensions ou thèmes."
+
+#: tooltips.php:160
+msgid "Select yes or no to enable or disable HTML5 output. Setting this to no will disable the standard Gravity Forms HTML5 form field output."
+msgstr "Choisissez Oui ou Non pour activer ou désactiver l’utilisation du code HTML5. Si vous sélectionnez Non, le code HTML5 standard de Gravity Forms ne sera pas utilisé."
+
+#: tooltips.php:159
+msgid "Select yes or no to enable or disable CSS output.  Setting this to no will disable the standard Gravity Forms CSS from being included in your theme."
+msgstr "Choisissez Oui ou Non pour activer ou désactiver l’utilisation du CSS. Si vous sélectionnez Non, le CSS standard de Gravity Forms ne sera pas inclus dans votre thème."
+
+#: tooltips.php:158
+msgid "Your Gravity Forms support license key is used to verify your support package, enable automatic updates and receive support."
+msgstr "Votre clé de licence Gravity Forms est utilisée pour vérifier les mises à jour automatiques et pour pouvoir accéder au support technique."
+
+#: tooltips.php:158
+msgid "Settings License Key"
+msgstr "Réglages de la clé de licence"
+
+#: tooltips.php:156
+msgid "Select a date range. Setting a range will limit the export to entries submitted during that date range. If no range is set, all entries will be exported."
+msgstr "Sélectionnez une plage de dates. Les données ne seront exportées que pour les entrées reçues durant cette période. Si aucune plage n’est sélectionnée, toutes les entrées seront exportées."
+
+#: tooltips.php:156
+msgid "Export Date Range"
+msgstr "Exporter la plage de dates"
+
+#: tooltips.php:155
+msgid "Select the fields you would like to include in the export."
+msgstr "Sélectionnez les champs que vous souhaitez inclure dans l’export."
+
+#: tooltips.php:155
+msgid "Export Selected Fields"
+msgstr "Exporter les champs sélectionnés"
+
+#: tooltips.php:154
+msgid "Filter the entries by adding conditions."
+msgstr "Trier les entrées en ajoutant des conditions."
+
+#: tooltips.php:153
+msgid "Select the forms you would like to export."
+msgstr "Sélectionnez les formulaires que vous voulez exporter."
+
+#: tooltips.php:153
+msgid "Export Selected Forms"
+msgstr "Exporter les formulaires sélectionnés"
+
+#: tooltips.php:152
+msgid "Select the form you would like to export entry data from. You may only export data from one form at a time."
+msgstr "Sélectionnez le formulaire pour lequel vous voulez exporter les entrées. Vous ne pouvez exporter les données que d’un formulaire à la fois."
+
+#: tooltips.php:152
+msgid "Export Selected Form"
+msgstr "Exporter le formulaire sélectionné"
+
+#: tooltips.php:151
+msgid "Pricing fields allow you to add fields to your form that calculate pricing for selling goods and services."
+msgstr "Les champs de prix vous permettent d’ajouter des champs qui calculent automatiquement des prix pour vendre des produits et services."
+
+#: tooltips.php:150
+msgid "Post Fields allow you to add fields to your form that create Post Drafts in WordPress from the submitted data."
+msgstr "Les champs d’articles vous permettent d’ajouter des champs à votre formulaire qui permettront de créer des brouillons d’articles à partir des données envoyées."
+
+#: tooltips.php:149
+msgid "Advanced Fields are for specific uses.  They enable advanced formatting of regularly used fields such as Name, Email, Address, etc."
+msgstr "Les champs avancés fournissent les fonctionnalités pour des usages spécifiques. Ils permettent le formatage avancé de données pour des champs courants tels que les noms, e-mails, adresses, etc.."
+
+#: tooltips.php:148
+msgid "Standard Fields provide basic form functionality."
+msgstr "Les champs standards fournissent les fonctionnalités d’un formulaire de base."
+
+#: tooltips.php:147
+msgid "Input masks provide a visual guide allowing users to more easily enter data in a specific format such as dates and phone numbers."
+msgstr "Les masques de saisie fournissent un guide visuel qui permettent aux utilisateurs de saisir des données dans un format spécifique tel que des numéros de téléphone, des dates et des chiffres."
+
+#: tooltips.php:146
+msgid "Select which Product this field is tied to."
+msgstr "Sélectionnez le champ de produit auquel ce champ sera associé."
+
+#: tooltips.php:146
+msgid "Product Field"
+msgstr "Champ de produit"
+
+#: tooltips.php:145
+msgid "Disables the quantity field.  A quantity of 1 will be assumed or you can add a Quantity field to your form from the Pricing Fields."
+msgstr "Désactive le champ de quantité. Une quantité de 1 sera configurée par défaut ou vous pouvez ajouter un champ de quantité à votre formulaire à partir des champs de prix."
+
+#: tooltips.php:145
+msgid "Disable Quantity"
+msgstr "Désactivez la quantité"
+
+#: tooltips.php:144
+msgid "Enter the base price for this product."
+msgstr "Saisissez le prix de base pour ce produit."
+
+#: tooltips.php:144
+msgid "Base Price"
+msgstr "Prix de base"
+
+#: tooltips.php:143
+msgid "Enter the content (Text or HTML) to be displayed on the form."
+msgstr "Saisissez le contenu (texte ou HTML) à afficher sur le formulaire."
+
+#: tooltips.php:142
+msgid "Check this option to enable data to be passed to the form and pre-populate this field dynamically. Data can be passed via Query Strings, Shortcode and/or Hooks."
+msgstr "Cochez cette option pour permettre l’envoi des données au formulaire afin de pré-remplir ce champ dynamiquement. Les données peuvent être envoyées par des chaînes de requête, des codes courts et/ou des hooks."
+
+#: tooltips.php:142
+msgid "Incoming Field Data"
+msgstr "Données de champ entrantes"
+
+#: tooltips.php:141
+msgid "Check this option to set this image as the post's Featured Image."
+msgstr "Cochez cette option pour afficher cette image comme Image mise en avant."
+
+#: tooltips.php:140
+msgid "Select one or more image metadata field to be displayed along with the image upload field. They enable users to enter additional information about the uploaded image."
+msgstr "Sélectionnez un ou plusieurs champs de méta données qui seront affichés avec le champ de mise en ligne (upload) de l’image. Ils permettront à l’utilisateur de saisir des informations sur l’image envoyée."
+
+#: tooltips.php:140
+msgid "Image Meta"
+msgstr "Méta données de l’image"
+
+#: tooltips.php:139
+msgid "Selecting this option will set the post author to the WordPress user that submitted the form."
+msgstr "Si vous sélectionnez cette option, l’auteur de l’article sera l’utilisateur WordPress qui a envoyé ce formulaire."
+
+#: tooltips.php:139
+msgid "Use Current User as Author"
+msgstr "Utiliser l’utilisateur actuel comme auteur"
+
+#: tooltips.php:138
+msgid "Select the category that will be used for the post that is created by the form entry."
+msgstr "Sélectionnez la catégorie qui sera utilisée pour l’article qui est crée par l’entrée de formulaire."
+
+#: tooltips.php:137
+msgid "Check this option to format and insert merge tags into the Post Title."
+msgstr "Sélectionnez cette option pour formater et insérer des fusions de balises dans le titre de l’article."
+
+#: tooltips.php:137
+msgid "Post Title Template"
+msgstr "Modèle de titre d’article"
+
+#: tooltips.php:136
+msgid "Check this option to format and insert merge tags into the Post Content."
+msgstr "Sélectionnez cette option pour formater et insérer des fusions de balises dans le contenu de l’article."
+
+#: tooltips.php:136
+msgid "Post Content Template"
+msgstr "Modèle de contenu d’article"
+
+#: tooltips.php:135
+msgid "Select the post format that will be used for the post that is created by the form entry."
+msgstr "Sélectionnez le format d’article qui sera utilisé pour l’article qui est crée par l’entrée de formulaire."
+
+#: tooltips.php:134
+msgid "Select the author that will be used for the post that is created by the form entry."
+msgstr "Sélectionnez l’auteur qui sera utilisé pour l’article qui est crée par l’entrée de formulaire."
+
+#: tooltips.php:134
+msgid "Post Author"
+msgstr "Auteur de l’article"
+
+#: tooltips.php:133
+msgid "Select the post status that will be used for the post that is created by the form entry."
+msgstr "Sélectionnez le statut de l'article qui sera utilisé pour l’article qui est crée par l’entrée de formulaire."
+
+#: tooltips.php:132
+msgid "Select which categories are displayed. You can choose to display all of them or select individual ones."
+msgstr "Sélectionnez les catégories à afficher. Vous pouvez choisir de toutes les afficher ou seulement en sélectionner quelques unes."
+
+#: tooltips.php:131
+msgid "Create rules to dynamically display or hide the submit button based on values from another field."
+msgstr "Créez des règles pour dynamiquement afficher ou cacher le bouton « Envoyer » en fonction de valeurs d’un autre champ."
+
+#: tooltips.php:130
+msgid "Create rules to dynamically display or hide the page's Next Button based on values from another field."
+msgstr "Créez des règles pour dynamiquement afficher ou masquer le bouton « Page suivante » en fonction de valeurs d’un autre champ."
+
+#: tooltips.php:130
+msgid "Next Button Conditional Logic"
+msgstr "Logique conditionnelle du bouton Suivant"
+
+#: tooltips.php:129
+msgid "Enter the path to an image you would like to use as the page previous button."
+msgstr "Saisissez le chemin vers l’image que vous souhaitez utiliser pour le bouton de la page précédente."
+
+#: tooltips.php:129
+msgid "Previous Button Image"
+msgstr "Image du bouton Précédent"
+
+#: tooltips.php:128
+msgid "Enter the text you would like to appear on the page previous button."
+msgstr "Saisissez le texte que vous voulez voir apparaître sur le bouton pour accéder à la page précédente."
+
+#: tooltips.php:128
+msgid "Previous Button Text"
+msgstr "Texte du bouton Précédent"
+
+#: tooltips.php:127
+msgid "Enter the path to an image you would like to use as the page next button."
+msgstr "Saisissez le chemin vers l’image que vous souhaitez utiliser pour le bouton de la page suivante."
+
+#: tooltips.php:127
+msgid "Next Button Image"
+msgstr "Image du bouton Suivant"
+
+#: tooltips.php:126
+msgid "Enter the text you would like to appear on the page next button."
+msgstr "Saisissez le texte que vous voulez voir apparaître sur le bouton pour accéder à la page suivante."
+
+#: tooltips.php:126
+msgid "Next Button Text"
+msgstr "Texte du bouton Suivant"
+
+#: tooltips.php:125
+msgid "Name each of the pages on your form.  Page names are displayed with the selected progress indicator."
+msgstr "Nommez chaque page de votre formulaire. Les noms de pages sont affichés avec l’indicateur de progression sélectionné."
+
+#: tooltips.php:124
+msgid "Select which progress bar style you would like to use.  Select custom to choose your own text and background color."
+msgstr "Sélectionnez le style de barre de progression que vous souhaitez utiliser. Sélectionnez Personnalisé pour choisir votre propre texte et couleur de fond."
+
+#: tooltips.php:123
+msgid "Select which type of visual progress indicator you would like to display.  Progress Bar, Steps or None."
+msgstr "Sélectionnez le type d’indicateur de progression que vous souhaitez afficher : Barre de progression, Étapes ou Aucune"
+
+#: tooltips.php:122
+msgid "Create rules to dynamically display or hide this page based on values from another field."
+msgstr "Créez des règles pour dynamiquement afficher ou masquer cette page en fonction de valeurs d’un autre champ."
+
+#: tooltips.php:122
+msgid "Page Conditional Logic"
+msgstr "Logique conditionnelle de page"
+
+#: tooltips.php:121
+msgid "Enter a message to be displayed to users who are not logged in (shortcodes and HTML are supported)."
+msgstr "Saisissez un message qui sera affiché aux utilisateurs qui ne sont pas connectés (les codes courts et le code HTML sont supportés)"
+
+#: tooltips.php:120
+msgid "Check this option to require a user to be logged in to view this form."
+msgstr "Sélectionnez cette option pour obliger un utilisateur à être connecté pour voir ce formulaire."
+
+#: tooltips.php:119
+msgid "Check this option to add a text input as the final choice of your radio button field. This allows the user to specify a value that is not a predefined choice."
+msgstr "Sélectionnez cette option pour ajouter un champ de texte comme dernier choix à votre champ de boutons radio. Ceci permet à l’utilisateur de saisir une valeur qui n’existe pas dans les choix prédéfinis."
+
+#: tooltips.php:119
+msgid "\"Other\" Choice"
+msgstr "« Autre » choix"
+
+#. Translators: %s: Link to Chosen jQuery framework.
+#: tooltips.php:116
+msgid "Enable Enhanced UI"
+msgstr "Activer l’interface graphique améliorée."
+
+#: tooltips.php:114
+msgid "Create rules to dynamically display or hide this field based on values from another field."
+msgstr "Créer des règles pour dynamiquement afficher ou masquer ce champ en fonction de valeurs d’un autre champ."
+
+#: tooltips.php:113
+msgid "Check this option to specify a value for each choice. Choice values are not displayed to the user viewing the form, but are accessible to administrators when viewing the entry."
+msgstr "Activez cette option pour pouvoir spécifier une valeur pour chaque choix. Les valeurs de choix ne sont pas affichées dans le formulaire mais sont accessibles aux administrateurs lorsqu’ils visionnent l’entrée."
+
+#: tooltips.php:113
+msgid "Enable Choice Values"
+msgstr "Activer les valeurs de choix"
+
+#: tooltips.php:112
+msgid "Field Choices"
+msgstr "Choix de champ"
+
+#: tooltips.php:110
+msgid "Enter the CSS class name you would like to use in order to override the default styles for this field."
+msgstr "Saisissez le nom de la classe CSS que vous voulez utiliser pour outrepasser le style par défaut de ce champ."
+
+#: tooltips.php:109
+msgid "Select the language you would like to use for the reCAPTCHA display from the available options."
+msgstr "Sélectionnez la langue que vous souhaitez utiliser pour le champ reCAPTCHA à partir des options disponibles."
+
+#: tooltips.php:109
+msgid "reCAPTCHA Language"
+msgstr "Langue du reCAPTCHA"
+
+#: tooltips.php:108
+msgid "If you would like to override the default error validation for a field, enter it here.  This message will be displayed if there is an error with this field when the user submits the form."
+msgstr "Si vous souhaitez outrepasser le message d’erreur de validation par défaut pour ce champ, saisissez-le ici. Il sera affiché à l’utilisateur s’il y a une erreur sur ce champ lorsque le formulaire est envoyé."
+
+#: tooltips.php:108
+msgid "Validation Message"
+msgstr "Message de validation"
+
+#: tooltips.php:106
+msgid "Select this setting to display the option as activated by default when the form first loads."
+msgstr "Sélectionnez ce réglage pour afficher l’option activée par défaut lors du premier chargement du formulaire."
+
+#: tooltips.php:106
+msgid "Activated by Default"
+msgstr "Activé par défaut"
+
+#: tooltips.php:105
+msgid "Select the field to be used as the source for the values for this field."
+msgstr "Sélectionnez le champ à utiliser comme source pour les valeurs de ce champ."
+
+#: tooltips.php:104
+msgid "Enter the label to be displayed next to the check box. For example, &quot;same as shipping address&quot;."
+msgstr "Saisissez le libellé à afficher à côté de la case à cocher. Par exemple, &quot; comme l’adresse de livraison &quot;."
+
+#: tooltips.php:103
+msgid "Activate this option to allow users to skip this field and submit the values entered in the associated field. For example, this is useful for shipping and billing address fields."
+msgstr "Activez cette option pour permettre aux utilisateurs de sauter ce champ et envoyer les valeurs du champ associé. Par exemple, cela est utile pour les champs d’adresse d’expédition et de facturation."
+
+#: tooltips.php:103
+msgid "Use Values Submitted in a Different Field"
+msgstr "Utiliser des valeurs envoyés dans un autre champ"
+
+#: tooltips.php:102
+msgid "Placeholders will not be submitted along with the form. Use Placeholders to give a hint at the expected value or format."
+msgstr "Les espaces réservés ne seront pas envoyés avec le formulaire. Utilisez-les pour donner un conseil sur le format ou la valeur attendue."
+
+#: tooltips.php:101
+msgid "The Placeholder will not be submitted along with the form. Use the Placeholder to give a hint at the expected value or format."
+msgstr "L’espace réservé ne sera pas envoyé avec le formulaire. Utilisez-le pour donner un conseil sur le format ou la valeur attendue."
+
+#: tooltips.php:99 tooltips.php:100
+msgid "If you would like to pre-populate the value of a field, enter it here."
+msgstr "Si vous souhaitez pré-remplir la valeur d’un champ, saisissez-la ici."
+
+#: tooltips.php:98
+msgid "Select the fields you'd like to use in this Address Field and customize the Sub-Labels by entering new ones."
+msgstr "Sélectionnez les champs que vous souhaitez utiliser dans ce champ d’adresse et personnalisez les sous-libellés en en saisissant de nouveaux."
+
+#: tooltips.php:97
+msgid "Add Choices to this field. You can mark a choice as selected by default by using the radio buttons on the left."
+msgstr "Ajoutez des choix à ce champ. Vous pouvez marquer chaque champ comme sélectionné par défaut en utilisant les boutons radio à gauche."
+
+#: tooltips.php:97
+msgid "Name Prefix Choices"
+msgstr "Choix des préfixes de noms"
+
+#: tooltips.php:96
+msgid "Select the fields you'd like to use in this Name field and customize the Sub-Labels by entering new ones."
+msgstr "Sélectionnez les champs que vous souhaitez utiliser dans ce champ de nom et personnalisez les sous-libellés en en saisissant de nouveaux."
+
+#: tooltips.php:95
+msgid "Select a form field size from the available options. This will set the width of the field. Please note: if using a paragraph field, the size applies only to the height of the field."
+msgstr "Sélectionnez une taille de champ de formulaire à partir des options disponibles. Note : si vous utilisez un champ de paragraphe, la taille ne s’applique qu’à la hauteur du champ."
+
+#: tooltips.php:94
+msgid "Select the sub-label placement.  Sub-labels can be placed above the field inputs or below the field inputs."
+msgstr "Sélectionnez la position du sous-libellé. Les sous-libellés peuvent être positionnées au-dessus ou au-dessous des champs de saisie."
+
+#: tooltips.php:93
+msgid "Select the description placement.  Descriptions can be placed above the field inputs or below the field inputs."
+msgstr "Sélectionnez la position de la description. Les descriptions peuvent être positionnées au-dessus ou au-dessous des champs de saisie."
+
+#: tooltips.php:92
+msgid "Select the label visibility for this field.  Labels can either inherit the form setting or be hidden."
+msgstr "Sélectionnez la visibilité du libellé pour ce champ. Les libellés peuvent hériter des réglages du formulaire ou être masqués."
+
+#: tooltips.php:92
+msgid "Label Visibility"
+msgstr "Visibilité du libellé"
+
+#: tooltips.php:91
+msgid "Enter values in this setting to override the Sub-Label for each field."
+msgstr "Saisissez des valeurs dans ce réglage pour remplacer les sous-libellés de chaque champ."
+
+#: tooltips.php:90
+msgid "Enter the admin label of the form field.  Entering a value in this field will override the Field Label when displayed in the Gravity Forms administration tool."
+msgstr "Saisissez le libellé de ce champ dans l’administration. Si vous saisissez une valeur, celle-ci outrepassera le libellé du champ lorsque les données du formulaire seront affichées dans l’outil d’administration de Gravity Forms."
+
+#: tooltips.php:90
+msgid "Admin Label"
+msgstr "Libellé de l’administration"
+
+#: tooltips.php:89
+msgid "Specify how many decimal places the number should be rounded to."
+msgstr "Veuillez préciser le nombre de décimales auquel ce nombre devrait être arrondi."
+
+#: tooltips.php:88
+msgid "Specify a mathematical formula. The result of this formula will be dynamically populated as the value for this field."
+msgstr "Spécifiez une formule mathématique. Le résultat de cette formule s’affichera dynamiquement comme valeur pour ce champ."
+
+#: tooltips.php:87
+msgid "Enabling calculations will allow the value of this field to be dynamically calculated based on a mathematical formula."
+msgstr "L’activation des calculs va permettre à la valeur de ce champ d’être calculée dynamiquement à partir d’une formule mathématique."
+
+#: tooltips.php:86
+msgid "Enter the minimum and maximum values for this form field.  This will require that the value entered by the user must fall within this range."
+msgstr "Saisissez les valeurs minimales et maximales de ce champ. Cela obligera l’utilisateur à saisir des valeurs comprises dans cette plage."
+
+#: tooltips.php:86
+msgid "Number Range"
+msgstr "Plage de nombres"
+
+#: tooltips.php:84
+msgid "Select this option to limit user input to unique values only.  This will require that a value entered in a field does not currently exist in the entry database for that field."
+msgstr "Sélectionnez cette option pour limiter les données saisies par l’utilisateur à des valeurs uniques seulement. Ceci préviendra la sauvegarde de doublons dans la base de données pour ce champ."
+
+#: tooltips.php:83
+msgid "Select this option to make the form field required.  A required field will prevent the form from being submitted if it is not filled out or selected."
+msgstr "Sélectionnez cette option pour rendre ce champ obligatoire. Un champ nécessaire empêchera l’envoi du formulaire si aucune donnée n’y est saisie ou sélectionnée."
+
+#: tooltips.php:83
+msgid "Required Field"
+msgstr "Champ nécessaire"
+
+#: tooltips.php:82
+msgid "Enter the description for the form field.  This will be displayed to the user and provide some direction on how the field should be filled out or selected."
+msgstr "Saisissez la description du champ du formulaire. Elle sera affichée à l’utilisateur et lui donnera quelques instructions sur la façon dont le champ doit être rempli ou sélectionné."
+
+#: tooltips.php:82
+msgid "Field Description"
+msgstr "Description du champ"
+
+#: tooltips.php:81
+msgid "Select the format you would like to use for the phone input.  Available options are domestic US/CANADA style phone number and international long format phone number."
+msgstr "Sélectionnez le format que vous voulez utiliser pour la saisie de numéros de téléphone. Les options disponibles sont le format domestique US/Canada et le format international long."
+
+#: tooltips.php:81
+msgid "Phone Number Format"
+msgstr "Format de numéro de Téléphone"
+
+#: tooltips.php:80
+msgid "Specify the maximum file size in megabytes allowed for each of the files."
+msgstr "Précisez en mégabits la taille maximale de fichier autorisée pour chacun des fichiers."
+
+#: tooltips.php:79
+msgid "Specify the maximum number of files that can be uploaded using this field. Leave blank for unlimited. Note that the actual number of files permitted may be limited by this server's specifications and configuration."
+msgstr "Précisez le nombre maximum de fichiers autorisés pour ce champ. Laissez vide pour un nombre illimité. Notez bien que le nombre de fichiers autorisés peut parfois être limité par la configuration et les spécifications du serveur."
+
+#: tooltips.php:78
+msgid "Select this option to enable multiple files to be uploaded for this field."
+msgstr "Sélectionnez cette option pour activer la mise en ligne de fichiers multiples pour ce champ."
+
+#: tooltips.php:77
+msgid "Enter the allowed file extensions for file uploads.  This will limit the type of files a user may upload."
+msgstr "Saisissez les extensions de fichiers autorisées pour la mise en ligne de fichiers (upload). Ceci limitera le type de fichier qu’un utilisateur pourra envoyer."
+
+#: tooltips.php:77
+msgid "Allowed File Extensions"
+msgstr "Extensions de fichiers autorisées"
+
+#: tooltips.php:76
+msgid "Select the format you would like to use for the time field.  Available options are 12 hour (i.e. 8:30 pm) and 24 hour (i.e. 20:30)."
+msgstr "Sélectionnez le format que vous voulez utiliser pour le champ d’heure. Les options disponibles sont : 12 heures (p.ex : 8 h 30 PM) et 24 heures (p.ex : 20 h 30)."
+
+#: tooltips.php:75
+msgid "Select the format you would like to use for the date input."
+msgstr "Sélectionnez le format que vous voulez utiliser pour la saisie des dates. De nombreux formats sont disponibles."
+
+#: tooltips.php:75
+msgid "Field Date Format"
+msgstr "Format du champ de date"
+
+#: tooltips.php:74
+msgid "Check this box to prevent this field from being displayed in a non-secure page (i.e. not https://). It will redirect the page to the same URL, but starting with https:// instead. This option requires a properly configured SSL certificate."
+msgstr "Cocher cette case pour empêcher ce champ de s’afficher sur une page non-sécurisée. (i.e. non https://). La page sera redirigée à la même URL mais en commençant l’URL par https://. Cette option nécessite un certificat SSL correctement configuré."
+
+#: tooltips.php:73
+msgid "Select the format of numbers that are allowed in this field. You have the option to use a comma or a dot as the decimal separator."
+msgstr "Sélectionnez le format de nombre qui est autorisé dans ce champ. Vous avez le choix d’utiliser une virgule ou un point comme séparateur décimal."
+
+#: tooltips.php:72
+msgid "Select the format you would like to use for the Name field.  There are 3 options, Normal which includes First and Last Name, Extended which adds Prefix and Suffix, or Simple which is a single input field."
+msgstr "Sélectionnez le format que vous voulez utiliser pour le champ de Nom. Il y a 3 options : Normal qui inclut le Prénom et le Nom, Étendu qui ajoute Préfixe et Suffixe ou Simple qui n’affiche qu’un seul champ de formulaire."
+
+#: tooltips.php:72
+msgid "Field Name Format"
+msgstr "Format du champ de nom"
+
+#: tooltips.php:71
+msgid "Check this box to prevent the State/Province/Region from being displayed in the form."
+msgstr "Cochez cette case pour ne pas afficher le champ État/Province/Région dans le formulaire."
+
+#: tooltips.php:71
+msgid "Hide State/Province/Region"
+msgstr "Masquer le champ État/Province/Région"
+
+#: tooltips.php:70
+msgid "Check this box to prevent Province field from being displayed in the form."
+msgstr "Cochez cette case pour ne pas afficher champ Province dans le formulaire."
+
+#: tooltips.php:70
+msgid "Hide Province Field"
+msgstr "Masquer le champ Province"
+
+#: tooltips.php:69
+msgid "Check this box to prevent the State field from being displayed in the form."
+msgstr "Cochez cette case pour ne pas afficher le champ État dans le formulaire."
+
+#: tooltips.php:69
+msgid "Hide State Field"
+msgstr "Masquer le champ d’état"
+
+#: tooltips.php:68
+msgid "Check this box to prevent the extra address input (Address Line 2) from being displayed in the form."
+msgstr "Cochez cette case pour ne pas afficher la ligne d’adresse supplémentaire (Ligne adresse 2) dans le formulaire."
+
+#: tooltips.php:68
+msgid "Hide Address Line 2"
+msgstr "Masquer la ligne d’adresse 2"
+
+#: tooltips.php:67
+msgid "For addresses that only apply to one country, you can choose to not display the country drop down. Entries will still be recorded with the selected country."
+msgstr "Pour les adresses qui ne s’appliquent qu’à un seul pays, vous pouvez choisir de ne pas afficher la liste déroulante des pays. Les entrées seront sauvegardées avec le pays sélectionné par défaut."
+
+#: tooltips.php:67
+msgid "Hide Country"
+msgstr "Masquer le pays"
+
+#: tooltips.php:66
+msgid "Select the country you would like to be selected by default when the form gets displayed."
+msgstr "Sélectionnez le pays qui devrait être sélectionné par défaut lorsque le formulaire est affiché."
+
+#: tooltips.php:65
+msgid "Select the province you would like to be selected by default when the form gets displayed."
+msgstr "Sélectionnez la province qui devrait être sélectionnée par défaut lorsque le formulaire est affiché."
+
+#: tooltips.php:65
+msgid "Default Province"
+msgstr "Province par défaut"
+
+#: tooltips.php:64
+msgid "Select the state you would like to be selected by default when the form gets displayed."
+msgstr "Sélectionnez l’état qui devrait être sélectionné par défaut lorsque le formulaire est affiché."
+
+#: tooltips.php:64
+msgid "Default State"
+msgstr "État par défaut"
+
+#: tooltips.php:63
+msgid "Select the type of address you would like to use."
+msgstr "Sélectionnez le type d’adresse que vous voulez utiliser."
+
+#: tooltips.php:62
+msgid "Select the type of inputs you would like to use for the date field. Date Picker will let users select a date from a calendar. Date Field will let users free type the date."
+msgstr "Sélectionnez le type de champ que vous souhaitez utiliser pour le champ de date. « Sélectionneur de date » permet aux utilisateurs de sélectionner une date dans un calendrier. « Champ de date » permet aux utilisateurs de saisir la date directement."
+
+#: tooltips.php:61
+msgid "Enter the maximum number of rows that users are allowed to add."
+msgstr "Saisissez le nombre maximum de lignes qui peuvent être ajoutées par l’utilisateur."
+
+#: tooltips.php:60
+msgid "Enter the maximum number of characters that this field is allowed to have."
+msgstr "Saisissez le nombre maximum de caractères que ce champ pourra contenir."
+
+#: tooltips.php:59
+msgid "Select the type of field from the available form fields."
+msgstr "Sélectionnez le type de champ à partir des champs disponibles."
+
+#: tooltips.php:59
+msgid "Field type"
+msgstr "Type de champ"
+
+#: tooltips.php:58
+msgid "Select the custom field name from available existing custom fields, or enter a new custom field name."
+msgstr "Sélectionnez le nom du champ personnalisé à partir des champs personnalisés disponibles ou bien saisissez un nouveau nom."
+
+#: tooltips.php:56
+msgid "Select the type of CAPTCHA you would like to use."
+msgstr "Sélectionnez le type de CAPTCHA que vous voulez utiliser."
+
+#: tooltips.php:56
+msgid "CAPTCHA Type"
+msgstr "Type de CAPTCHA"
+
+#: tooltips.php:55
+msgid "Select the visual theme for the reCAPTCHA field from the available options to better match your site design."
+msgstr "Sélectionnez le thème visuel du champ reCAPTCHA parmi les choix proposés pour qu’il s'intègre au mieux au design de votre site."
+
+#: tooltips.php:55
+msgid "reCAPTCHA Theme"
+msgstr "Thème du reCAPTCHA"
+
+#: tooltips.php:54
+msgid "When enabled, margins are added to properly align the HTML content with other form fields."
+msgstr "Quand elles sont activées, des marges sont ajoutées pour aligner le contenu HTML avec les champs du formulaire."
+
+#: tooltips.php:54
+msgid "Disable Default Margins"
+msgstr "Désactiver les marges par défaut"
+
+#: tooltips.php:53
+msgid "Enter the label for this HTML block. It will help you identify your HTML blocks in the form editor, but it will not be displayed on the form."
+msgstr "Saisissez le libellé pour ce bloc de code HTML. Il vous aidera à identifier vos blocs HTML dans l’éditeur de formulaire mais il ne sera pas affiché dans le formulaire lui-même."
+
+#: tooltips.php:52
+msgid "Enter the label of the form field.  This is the field title the user will see when filling out the form."
+msgstr "Saisissez le libellé du champ. C’est le titre qui sera affiché à l’utilisateur lorsqu’il remplira le formulaire."
+
+#. Translators: %s: Link to article about query strings.
+#: tooltips.php:51
+msgid "Pass Data Via Query String"
+msgstr "Passer les données via la chaîne de requête (query string)"
+
+#: tooltips.php:49
+msgid "Enter the URL of the webpage you would like the user to be redirected to after they have submitted the form."
+msgstr "Saisissez l’URL de la page vers laquelle vous souhaitez rediriger l’utilisateur après l’envoi du formulaire."
+
+#: tooltips.php:49
+msgid "Redirect Form to URL"
+msgstr "URL de redirection du formulaire"
+
+#: tooltips.php:48
+msgid "Select the page you would like the user to be redirected to after they have submitted the form."
+msgstr "Sélectionnez la page vers laquelle l’utilisateur doit être redirigé après avoir envoyé le formulaire."
+
+#: tooltips.php:48
+msgid "Redirect Form to Page"
+msgstr "Rediriger le formulaire vers la page"
+
+#: tooltips.php:47
+msgid "When enabled, auto-formatting will insert paragraph breaks automatically. Disable auto-formatting when using HTML to create the confirmation content."
+msgstr "Lorsqu’il est activé, ce formatage insère des retours de paragraphe automatiquement. Désactivez-le lorsque vous utilisez l’HTML pour créer le contenu des e-mails de confirmation."
+
+#: tooltips.php:46
+msgid "Enter the text you would like the user to see on the confirmation page of this form."
+msgstr "Saisissez le texte que vous voulez afficher à l’utilisateur sur la page de confirmation de ce formulaire."
+
+#: tooltips.php:46
+msgid "Confirmation Message Text"
+msgstr "Texte du message de confirmation"
+
+#: tooltips.php:45
+msgid "Enter the URL of a custom image to replace the default 'delete item' icon. A maximum size of 16px by 16px is recommended"
+msgstr "Saisissez l’URL d’une image personnalisée pour remplacer l’icône par défaut « Supprimer un élément ». Une taille maximale de 16 x 16 pixels est recommandée."
+
+#: tooltips.php:44
+msgid "Enter the URL of a custom image to replace the default 'add item' icon. A maximum size of 16px by 16px is recommended"
+msgstr "Saisissez l’URL d’une image personnalisée pour remplacer l’icône par défaut pour « ajouter un élément ». Une taille maximale de 16 x 16 pixels est recommandée."
+
+#: tooltips.php:43
+msgid "Enter the CSS class name you would like to use in order to override the default styles for this form."
+msgstr "Saisissez le nom de la classe CSS que vous souhaitez utiliser pour remplacer les styles par défaut de ce formulaire."
+
+#: tooltips.php:43
+msgid "Form CSS Class Name"
+msgstr "Nom de la classe CSS du formulaire"
+
+#: tooltips.php:42
+msgid "Enter the path to an image you would like to use as the form submit button."
+msgstr "Saisissez le chemin vers l’image que vous souhaitez utiliser comme bouton d’envoi du formulaire."
+
+#: tooltips.php:42
+msgid "Form Button Image"
+msgstr "Image du bouton"
+
+#: tooltips.php:41
+msgid "Enter the text you would like to appear on the form submit button."
+msgstr "Saisissez le texte que vous voulez voir apparaître sur le bouton d’envoi du formulaire."
+
+#: tooltips.php:41
+msgid "Form Button Text"
+msgstr "Texte du bouton"
+
+#: tooltips.php:39
+msgid "Select the default sub-label placement.  Sub-labels can be placed above the field inputs or below the field inputs. This setting can be overridden in the appearance settings for each field."
+msgstr "Sélectionnez la position par défaut du sous-libellé. Les sous-libellés peuvent être positionnées au-dessus ou au-dessous des champs de saisie. Ce réglage peut-être outrepassé dans les réglages avancés de chaque champ."
+
+#: tooltips.php:38
+msgid "Select the default description placement.  Descriptions can be placed above the field inputs or below the field inputs. This setting can be overridden in the appearance settings for each field."
+msgstr "Sélectionnez la position par défaut de la description. Les descriptions peuvent être positionnées au-dessus ou au-dessous des champs de saisie. Ce réglage peut-être outrepassé dans les réglages avancés de chaque champ."
+
+#: tooltips.php:37
+msgid "Form Label Placement"
+msgstr "Emplacement du libellé du formulaire"
+
+#: tooltips.php:36
+msgid "Enter a description for your form. This may be used for user instructions."
+msgstr "Saisissez la description de votre formulaire. Elle pourra être utilisée pour fournir des instructions aux utilisateurs."
+
+#: tooltips.php:35
+msgid "Enter the title of your form."
+msgstr "Saisissez le titre de votre formulaire."
+
+#: tooltips.php:33
+msgid "Check this option to enable a sliding animation when displaying/hiding conditional logic fields."
+msgstr "Cochez cette option pour activer l’animation lorsque la fonctionnalité de la logique conditionnelle affiche ou cache des champs."
+
+#: tooltips.php:33
+msgid "Enable Animation"
+msgstr "Activer l’animation"
+
+#: tooltips.php:32
+msgid "Enables the honeypot spam protection technique, which is an alternative to the reCAPTCHA field."
+msgstr "Active la technique de protection anti-spam pot de miel (honeypot). Une alternative au champ reCAPTCHA."
+
+#: tooltips.php:32
+msgid "Enable Anti-spam honeypot"
+msgstr "Activer le honeypot anti spam."
+
+#: tooltips.php:31
+msgid "Schedule a time period the form is active."
+msgstr "Planifiez une période de temps durant laquelle le formulaire sera actif."
+
+#: tooltips.php:30
+msgid "Enter a number in the input box below to limit the number of entries allowed for this form. The form will become inactive when that number is reached."
+msgstr "Saisissez un nombre dans le champ ci-dessous pour limiter le nombre d’entrées pour ce formulaire. Le formulaire deviendra inactif quand ce nombre sera atteint."
+
+#: tooltips.php:30
+msgid "Limit Number of Entries"
+msgstr "Limiter le nombre d’entrées"
+
+#: tooltips.php:29
+msgid "Limit the number of entries a form can generate and/or schedule a time period the form is active."
+msgstr "Limitez le nombre d’entrées qu’un formulaire peut générer et/ou planifiez une période de temps durant laquelle le formulaire sera actif."
+
+#: tooltips.php:29
+msgid "Limit Form Activity"
+msgstr "Limitez l’activité du formulaire"
+
+#: tooltips.php:27
+msgid "Enter a comma separated list of email addresses you would like to receive a BCC of the notification email."
+msgstr "Saisissez une liste d’adresses e-mail séparées par des virgules qui recevront l’e-mail de notification en copie carbone invisible (CCI/BCC)."
+
+#: tooltips.php:27
+msgid "Blind Carbon Copy Addresses"
+msgstr "Adresses copies carbone invisibles (CCI/BCC)"
+
+#: tooltips.php:25
+msgid "Enter the email address you would like to be used as the reply to address for the notification email."
+msgstr "Saisissez l’adresse e-mail que vous souhaitez utiliser en tant qu’adresse de réponse pour l’e-mail de notification."
+
+#: tooltips.php:24
+msgid "Enter the name you would like the notification email sent from, or select the name from available name fields."
+msgstr "Saisissez le nom de l’expéditeur de l’e-mail de notification, ou sélectionnez le nom parmi les champs disponibles."
+
+#: tooltips.php:23
+msgid "From Email Address"
+msgstr "Adresse e-mail de l’expéditeur"
+
+#: tooltips.php:22
+msgid "Allows notification to be sent to different email addresses depending on values selected in the form."
+msgstr "Permettre que les notifications soient envoyées à différentes adresses e-mail selon les valeurs sélectionnées dans le formulaire."
+
+#: tooltips.php:22
+msgid "Routing"
+msgstr "Routage"
+
+#: tooltips.php:21
+msgid "When enabled, auto-formatting will insert paragraph breaks automatically. Disable auto-formatting when using HTML to create email notification content."
+msgstr "Lorsqu’il est activé, ce formatage insère des retours de paragraphe automatiquement. Désactivez-le lorsque vous utilisez l’HTML pour créer le contenu des e-mails de notification."
+
+#: tooltips.php:21 tooltips.php:47
+msgid "Disable Auto-Formatting"
+msgstr "Désactiver le formatage automatique"
+
+#: tooltips.php:20
+msgid "Enter the email address you would like the notification email sent to."
+msgstr "Saisissez l’adresse e-mail où vous voulez que les notifications soient envoyées."
+
+#: tooltips.php:20
+msgid "Send To Email Address"
+msgstr "Adresse e-mail du destinataire"
+
+#: form_detail.php:3066
+msgid "New submission from"
+msgstr "Nouveau message de"
+
+#: common.php:758 form_detail.php:2839
+msgid "User Login"
+msgstr "Identifiant"
+
+#: common.php:757 form_detail.php:2838
+msgid "User Email"
+msgstr "E-mail utilisateur"
+
+#: common.php:755 form_detail.php:2837
+msgid "User Display Name"
+msgstr "Nom de l’utilisateur à afficher"
+
+#: common.php:743 form_detail.php:2836
+msgid "HTTP Referer URL"
+msgstr "URL du référant HTTP"
+
+#: common.php:742 form_detail.php:2835
+msgid "HTTP User Agent"
+msgstr "Agent utilisateur HTTP"
+
+#: common.php:735 form_detail.php:2833
+msgid "Embed Post/Page Title"
+msgstr "Insérer le titre de l’article/de la page"
+
+#: common.php:731 form_detail.php:2832
+msgid "Embed Post/Page Id"
+msgstr "Insérer l’ID de l'article/de la page"
+
+#: common.php:720 form_detail.php:2829 js.php:1473
+msgid "User IP Address"
+msgstr "Adresse IP de l’utilisateur"
+
+#: common.php:576 common.php:912 form_detail.php:2828
+msgid "Insert Merge Tag"
+msgstr "Insérer la balise de fusion"
+
+#: form_detail.php:2617 tooltips.php:151
+msgid "Pricing Fields"
+msgstr "Champs de prix"
+
+#: form_detail.php:2604 tooltips.php:150
+msgid "Post Fields"
+msgstr "Champs d’articles"
+
+#: form_detail.php:2450
+msgid "Enable Next Button Conditional Logic"
+msgstr "Activer les logiques conditionnelles pour le bouton Suivant"
+
+#: form_detail.php:2438
+msgid "Enable Page Conditional Logic"
+msgstr "Activer les logiques conditionnelles pour les pages"
+
+#: form_detail.php:2372
+msgid "Allow field to be populated dynamically"
+msgstr "Remplir dynamiquement les champs"
+
+#: form_detail.php:2365
+msgid "Use the Rich Text Editor"
+msgstr "Utiliser l’éditeur de texte riche"
+
+#: common.php:6867 form_detail.php:2348
+msgid "Visibility"
+msgstr "Visibilité"
+
+#: form_detail.php:2342 tooltips.php:74
+msgid "Force SSL"
+msgstr "Forcer le SSL"
+
+#: form_detail.php:2335
+msgid "Enable Password Input"
+msgstr "Activer la saisie de mot de passe"
+
+#: form_detail.php:2325 tooltips.php:45
+msgid "Delete Icon URL"
+msgstr "Supprimer l’URL de l’icône"
+
+#: form_detail.php:2315 tooltips.php:44
+msgid "Add Icon URL"
+msgstr "Ajouter l’URL de l’icône"
+
+#: form_detail.php:2305
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+#: form_detail.php:2304
+msgid "Urdu"
+msgstr "Urdu"
+
+#: form_detail.php:2303
+msgid "Ukrainian"
+msgstr "Ukrainien"
+
+#: form_detail.php:2302
+msgid "Turkish"
+msgstr "Turque"
+
+#: form_detail.php:2301
+msgid "Thai"
+msgstr "Thaï"
+
+#: form_detail.php:2300
+msgid "Telugu"
+msgstr "Télugu"
+
+#: form_detail.php:2299
+msgid "Tamil"
+msgstr "Tamil"
+
+#: form_detail.php:2298
+msgid "Swedish"
+msgstr "Suédois"
+
+#: form_detail.php:2296
+msgid "Spanish (Latin America)"
+msgstr "Espagnol (Amérique latine)"
+
+#: form_detail.php:2295
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: form_detail.php:2294
+msgid "Slovenian"
+msgstr "Slovène"
+
+#: form_detail.php:2293
+msgid "Slovak"
+msgstr "Slovaque"
+
+#: form_detail.php:2291
+msgid "Serbian"
+msgstr "Serbe"
+
+#: form_detail.php:2290
+msgid "Russian"
+msgstr "Russe"
+
+#: form_detail.php:2289
+msgid "Romanian"
+msgstr "Roumain"
+
+#: form_detail.php:2288
+msgid "Portuguese (Portugal)"
+msgstr "Portugais (Portugal)"
+
+#: form_detail.php:2287
+msgid "Portuguese (Brazil)"
+msgstr "Portugais (Brésil)"
+
+#: form_detail.php:2286
+msgid "Portuguese"
+msgstr "Portugais"
+
+#: form_detail.php:2285
+msgid "Polish"
+msgstr "Polonais"
+
+#: form_detail.php:2284
+msgid "Persian"
+msgstr "Persique"
+
+#: form_detail.php:2283
+msgid "Norwegian"
+msgstr "Norvégien"
+
+#: form_detail.php:2281
+msgid "Marathi"
+msgstr "Marathe"
+
+#: form_detail.php:2280
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: form_detail.php:2279
+msgid "Malay"
+msgstr "Malais"
+
+#: form_detail.php:2278
+msgid "Lithuanian"
+msgstr "Lituanien"
+
+#: form_detail.php:2277
+msgid "Latvian"
+msgstr "Letton"
+
+#: form_detail.php:2275
+msgid "Korean"
+msgstr "Coréen"
+
+#: form_detail.php:2274
+msgid "Kannada"
+msgstr "Kannada"
+
+#: form_detail.php:2273
+msgid "Japanese"
+msgstr "Japonais"
+
+#: form_detail.php:2272
+msgid "Italian"
+msgstr "Italien"
+
+#: form_detail.php:2271
+msgid "Indonesian"
+msgstr "Indonésien"
+
+#: form_detail.php:2269
+msgid "Hungarian"
+msgstr "Hongrois"
+
+#: form_detail.php:2268
+msgid "Hindi"
+msgstr "Hindi"
+
+#: form_detail.php:2267
+msgid "Hebrew"
+msgstr "Hébreu"
+
+#: form_detail.php:2266
+msgid "Gujarati"
+msgstr "Goudjrati"
+
+#: form_detail.php:2265
+msgid "Greek"
+msgstr "Grec"
+
+#: form_detail.php:2264
+msgid "German (Switzerland)"
+msgstr "Allemand (Suisse)"
+
+#: form_detail.php:2263
+msgid "German (Austria)"
+msgstr "Allemand (Autriche)"
+
+#: form_detail.php:2262
+msgid "German"
+msgstr "Allemand"
+
+#: form_detail.php:2259
+msgid "French (Canadian)"
+msgstr "Français (Canadien)"
+
+#: form_detail.php:2258
+msgid "French"
+msgstr "Français"
+
+#: form_detail.php:2257
+msgid "Finnish"
+msgstr "Finnois"
+
+#: form_detail.php:2256
+msgid "Filipino"
+msgstr "Philippin"
+
+#: form_detail.php:2255
+msgid "Estonian"
+msgstr "Estonien"
+
+#: form_detail.php:2254
+msgid "English (US)"
+msgstr "Anglais (US)"
+
+#: form_detail.php:2253
+msgid "English (UK)"
+msgstr "Anglais (UK)"
+
+#: form_detail.php:2252
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: form_detail.php:2251
+msgid "Danish"
+msgstr "Danois"
+
+#: form_detail.php:2250
+msgid "Czech"
+msgstr "Tchèque"
+
+#: form_detail.php:2249
+msgid "Croatian"
+msgstr "Croate"
+
+#: form_detail.php:2248
+msgid "Chinese (Traditional)"
+msgstr "Chinois (Traditionnel)"
+
+#: form_detail.php:2247
+msgid "Chinese (Simplified)"
+msgstr "Chinois (Simplifié)"
+
+#: form_detail.php:2245
+msgid "Catalan"
+msgstr "Catalan"
+
+#: form_detail.php:2244
+msgid "Bulgarian"
+msgstr "Bulgare"
+
+#: form_detail.php:2243
+msgid "Bengali"
+msgstr "Bengali"
+
+#: form_detail.php:2237
+msgid "Arabic"
+msgstr "Arabe"
+
+#: form_detail.php:2232
+msgid "Language"
+msgstr "Langue"
+
+#: form_detail.php:2218
+msgid "Activated by default"
+msgstr "Activé par défaut"
+
+#: form_detail.php:2208 tooltips.php:105
+msgid "Source Field"
+msgstr "Champ source"
+
+#: form_detail.php:2203 tooltips.php:104
+msgid "Option Label"
+msgstr "Libellé de l’option"
+
+#: form_detail.php:2197
+msgid "To activate this option, please add a field to be used as the source."
+msgstr "Pour activer cette option, merci d’ajouter un champ à utiliser comme source."
+
+#: form_detail.php:2191
+msgid "Display option to use the values submitted in different field"
+msgstr "Afficher l’option pour utiliser les valeurs saisies dans un champ différent"
+
+#: form_detail.php:2176 tooltips.php:100
+msgid "Default Values"
+msgstr "Valeurs par défaut"
+
+#: form_detail.php:2150
+msgid "Prefix Choices"
+msgstr "Choix du préfixe"
+
+#: form_detail.php:2130 form_detail.php:2140 js.php:195 tooltips.php:99
+msgid "Default Value"
+msgstr "Valeur par défaut"
+
+#: form_detail.php:2116
+msgid "Admin Field Label"
+msgstr "Libellé du champ d’administration"
+
+#: form_detail.php:2081 tooltips.php:95
+msgid "Field Size"
+msgstr "Taille du champ"
+
+#: form_detail.php:2068
+msgid "Enable enhanced user interface"
+msgstr "Activer l’interface graphique avancée"
+
+#: form_detail.php:2055
+msgid "Custom CSS Class"
+msgstr "Classe CSS personnalisée"
+
+#: form_detail.php:2043
+msgid "Custom Validation Message"
+msgstr "Message de validation personnalisé"
+
+#: form_detail.php:2012 form_detail.php:2033
+msgid "Use Form Setting (%s)"
+msgstr "Utiliser les réglages du formulaire (%s)"
+
+#: form_detail.php:2001
+msgid "Visible (%s)"
+msgstr "Visible (%s)"
+
+#: form_detail.php:1997
+msgid "Field Label Visibility"
+msgstr "Visibilité du libellé du champ"
+
+#: form_detail.php:1967 tooltips.php:102
+msgid "Placeholders"
+msgstr "Espaces réservés"
+
+#: form_detail.php:1948 form_detail.php:1959
+msgid "Placeholder text is not supported when using the Rich Text Editor."
+msgstr "Le texte d’espace réservé n’est pas supporté quand l’éditeur de texte riche est utilisé."
+
+#: form_detail.php:1904 tooltips.php:84
+msgid "No Duplicates"
+msgstr "Pas de doublons"
+
+#: form_detail.php:1895 includes/settings/class-settings.php:897
+msgid "Required"
+msgstr "Nécessaire"
+
+#: form_detail.php:1889
+msgid "Rules"
+msgstr "Règles"
+
+#: form_detail.php:1874
+msgid "Do not round"
+msgstr "Ne pas arrondir"
+
+#: form_detail.php:1865 tooltips.php:89
+msgid "Rounding"
+msgstr "Arrondi"
+
+#: form_detail.php:1861
+msgid "Validate Formula"
+msgstr "Valider la formule"
+
+#: form_detail.php:1861
+msgid "There appears to be a problem with the formula."
+msgstr "Il semble qu’il y ait un problème avec votre formule."
+
+#: form_detail.php:1861
+msgid "The formula appears to be valid."
+msgstr "La formule semble correcte."
+
+#: form_detail.php:1847 tooltips.php:88
+msgid "Formula"
+msgstr "Formule"
+
+#: form_detail.php:1839 tooltips.php:87
+msgid "Enable Calculation"
+msgstr "Activer les calculs"
+
+#: form_detail.php:1823
+msgid "Max"
+msgstr "Max"
+
+#: form_detail.php:1817
+msgid "Min"
+msgstr "Min"
+
+#: form_detail.php:1810
+msgid "Range"
+msgstr "Plage"
+
+#: form_detail.php:1798 tooltips.php:60
+msgid "Maximum Characters"
+msgstr "Nombre maximal de caractères"
+
+#: form_detail.php:1779
+msgid "Select a Mask"
+msgstr "Sélectionnez un masque"
+
+#: form_detail.php:1767
+msgid "Zip Code w/ Optional Plus Four"
+msgstr "Code postal avec +4 optionnel"
+
+#: form_detail.php:1753
+msgid "Course Code"
+msgstr "Code de course"
+
+#: form_detail.php:1746
+msgid "Social Security Number"
+msgstr "Numéro de sécurité sociale"
+
+#: form_detail.php:1742 form_detail.php:1749 form_detail.php:1756
+#: form_detail.php:1763 form_detail.php:1770
+msgid "Valid Input"
+msgstr "Saisie valide"
+
+#: form_detail.php:1740 form_detail.php:1747 form_detail.php:1754
+#: form_detail.php:1761 form_detail.php:1768
+msgid "Mask"
+msgstr "Masque"
+
+#: form_detail.php:1736
+msgid "Examples"
+msgstr "Exemples"
+
+#: form_detail.php:1733
+msgid "All other characters are literal values and will be displayed automatically."
+msgstr "Tous les autres caractères ont des valeurs littérales et seront affichés automatiquement."
+
+#: form_detail.php:1732
+msgid "Use a question mark '?' to indicate optional characters. Note: All characters after the question mark will be optional."
+msgstr "Utilisez un point d’interrogation '?' pour indiquer un caractère optionnel. Note : Tous les caractères suivant le point d’interrogation seront optionnels."
+
+#: form_detail.php:1731
+msgid "Use an asterisk '*' to indicate any alphanumeric character."
+msgstr "Utilisez une astérisque  '*' pour indiquer un caractère alpha-numérique."
+
+#: form_detail.php:1730
+msgid "Use a lower case 'a' to indicate an alphabetical character."
+msgstr "Utilisez un 'a' minuscule pour indiquer un caractère alphabétique."
+
+#: form_detail.php:1729
+msgid "Use a '9' to indicate a numerical character."
+msgstr "Utilisez le chiffre '9' pour indiquer un caractère numérique."
+
+#: form_detail.php:1727
+msgid "Usage"
+msgstr "Utilisation"
+
+#: form_detail.php:1721
+msgid "Custom Mask Instructions"
+msgstr "Instruction du masque de saisie"
+
+#: form_detail.php:1720
+msgid "Enter a custom mask"
+msgstr "Saisissez un masque de saisie personnalisé"
+
+#: form_detail.php:1700 tooltips.php:147
+msgid "Input Mask"
+msgstr "Masque de saisie"
+
+#: entry_list.php:261 form_detail.php:1709
+msgid "Standard"
+msgstr "Standard"
+
+#: form_detail.php:1674
+msgid "Supported Credit Cards"
+msgstr "Cartes de crédit supportées"
+
+#: form_detail.php:1659 tooltips.php:91
+msgid "Sub-Labels"
+msgstr "Sous-libellés"
+
+#: form_detail.php:1644 tooltips.php:73
+msgid "Number Format"
+msgstr "Format du nombre"
+
+#: form_detail.php:1633
+msgid "Good"
+msgstr "Bon"
+
+#: form_detail.php:1632
+msgid "Bad"
+msgstr "Faible"
+
+#: form_detail.php:1631
+msgid "Short"
+msgstr "Court"
+
+#: form_detail.php:1626
+msgid "Minimum Strength"
+msgstr "Force minimale"
+
+#: form_detail.php:1615
+msgid "Enable Password Strength"
+msgstr "Activer la force du mot de passe"
+
+#: form_detail.php:1585
+msgid "Enable Email Confirmation"
+msgstr "Activer la confirmation par e-mail"
+
+#: form_detail.php:1572
+msgid "Enable \"other\" choice"
+msgstr "Activer l’« autre » choix"
+
+#: form_detail.php:1531
+msgid "enter name"
+msgstr "saisir le nom"
+
+#: form_detail.php:1531
+msgid "Enter name"
+msgstr "Saisir le nom"
+
+#: form_detail.php:1530
+msgid "Save as"
+msgstr "Enregistrer sous"
+
+#: form_detail.php:1526
+msgid "Save as new custom choice"
+msgstr "Enregistrer en tant que nouveau choix personnalisé"
+
+#: form_detail.php:1521
+msgid "Insert Choices"
+msgstr "Insertion des choix"
+
+#: form_detail.php:1454
+msgid "Select a category and customize the predefined choices or paste your own list to bulk add choices."
+msgstr "Sélectionnez une catégorie et personnalisez les choix prédéfinis ou, collez votre propre liste pour ajouter des choix groupés."
+
+#: form_detail.php:1483
+msgid "Extra Large"
+msgstr "Très grand"
+
+#: form_detail.php:1483
+msgid "Extra Small"
+msgstr "Très petit"
+
+#: form_detail.php:1482
+msgid "Definitely Not"
+msgstr "Certainement pas"
+
+#: form_detail.php:1482
+msgid "Probably Not"
+msgstr "Probablement pas"
+
+#: form_detail.php:1482
+msgid "Not Sure"
+msgstr "Pas sûr"
+
+#: form_detail.php:1482
+msgid "Probably"
+msgstr "Probablement"
+
+#: form_detail.php:1482
+msgid "Definitely"
+msgstr "Absolument"
+
+#: form_detail.php:1482
+msgid "Would You"
+msgstr "Feriez-vous"
+
+#: form_detail.php:1481
+msgid "Much Worse"
+msgstr "Bien pire"
+
+#: form_detail.php:1481
+msgid "Somewhat Worse"
+msgstr "Plutôt pire"
+
+#: form_detail.php:1481
+msgid "About the Same"
+msgstr "Neutre"
+
+#: form_detail.php:1481
+msgid "Somewhat Better"
+msgstr "Mieux"
+
+#: form_detail.php:1481
+msgid "Much Better"
+msgstr "Beaucoup mieux"
+
+#: form_detail.php:1481
+msgid "Comparison"
+msgstr "Comparaison"
+
+#: form_detail.php:1480
+msgid "Strongly Disagree"
+msgstr "Complètement en désaccord"
+
+#: form_detail.php:1480
+msgid "Disagree"
+msgstr "En désaccord"
+
+#: form_detail.php:1480
+msgid "Agree"
+msgstr "D’accord"
+
+#: form_detail.php:1480
+msgid "Strongly Agree"
+msgstr "Entièrement d’accord"
+
+#: form_detail.php:1480
+msgid "Agreement"
+msgstr "À quel degré êtes-vous d’accord"
+
+#: form_detail.php:1479
+msgid "Not Important"
+msgstr "Pas important"
+
+#: form_detail.php:1479
+msgid "Somewhat Important"
+msgstr "Importance moyenne"
+
+#: form_detail.php:2510
+msgid "The form title you have entered is already taken. Please enter a unique form title."
+msgstr "Le titre de formulaire que vous avez saisi est déjà utilisé. Veuillez saisir un titre unique."
+
+#: gravityforms.php:1680 gravityforms.php:5344
+msgid "New Form"
+msgstr "Nouveau formulaire"
+
+#: form_settings.php:447 form_settings.php:452 tooltips.php:31
+msgid "Schedule Form"
+msgstr "Planifier un formulaire"
+
+#: common.php:3836 gravityforms.php:5318
+#: includes/blocks/js/src/blocks/form/edit.js:223 js/blocks.js:332
+msgid "Preview"
+msgstr "Prévisualisation"
+
+#: form_detail.php:2006 form_settings.php:187 tooltips.php:38 tooltips.php:93
+msgid "Description Placement"
+msgstr "Emplacement de la description"
+
+#: form_detail.php:1298 form_detail.php:1944 form_detail.php:1955 js.php:219
+#: tooltips.php:101
+msgid "Placeholder"
+msgstr "Espace réservé"
+
+#: form_detail.php:1479
+msgid "Very Important"
+msgstr "Très important"
+
+#: form_detail.php:1479
+msgid "Importance"
+msgstr "Importance"
+
+#: form_detail.php:1478
+msgid "Very Unsatisfied"
+msgstr "Très insatisfait(e)"
+
+#: form_detail.php:1478
+msgid "Unsatisfied"
+msgstr "Insatisfait(e)"
+
+#: form_detail.php:1478
+msgid "Neutral"
+msgstr "Neutre"
+
+#: form_detail.php:1478
+msgid "Satisfied"
+msgstr "Satisfait(e)"
+
+#: form_detail.php:1478
+msgid "Very Satisfied"
+msgstr "Très satisfait(e)"
+
+#: form_detail.php:1478
+msgid "Satisfaction"
+msgstr "Satisfaction"
+
+#: form_detail.php:1477
+msgid "Never used"
+msgstr "Jamais utilisé"
+
+#: form_detail.php:1477
+msgid "Over 3 years"
+msgstr "Plus de 3 ans"
+
+#: form_detail.php:1477
+msgid "1-3 years"
+msgstr "1-3 ans"
+
+#: form_detail.php:1477
+msgid "1-6 months"
+msgstr "1-6 mois"
+
+#: form_detail.php:1477
+msgid "Less than a month"
+msgstr "Moins d’un mois"
+
+#: form_detail.php:1477
+msgid "How Long"
+msgstr "Depuis combien de temps"
+
+#: form_detail.php:1476
+msgid "Less than once a month"
+msgstr "Moins d’une fois par mois"
+
+#: form_detail.php:1476
+msgid "2 to 3 times a month"
+msgstr "2 à 3 fois par mois"
+
+#: form_detail.php:1476
+msgid "Once a month"
+msgstr "Une fois par mois"
+
+#: form_detail.php:1476
+msgid "2 to 3 times a week"
+msgstr "2 à 3 fois par semaine"
+
+#: form_detail.php:1476
+msgid "Once a week"
+msgstr "Une fois par semaine"
+
+#: form_detail.php:1476
+msgid "Every day"
+msgstr "Tous les jours"
+
+#: form_detail.php:1476
+msgid "How Often"
+msgstr "À quelle fréquence"
+
+#: common.php:6062 form_detail.php:1475
+msgid "December"
+msgstr "Décembre"
+
+#: common.php:6061 form_detail.php:1475
+msgid "November"
+msgstr "Novembre"
+
+#: common.php:6060 form_detail.php:1475
+msgid "October"
+msgstr "Octobre"
+
+#: common.php:6059 form_detail.php:1475
+msgid "September"
+msgstr "Septembre"
+
+#: common.php:6058 form_detail.php:1475
+msgid "August"
+msgstr "Août"
+
+#: common.php:6057 form_detail.php:1475
+msgid "July"
+msgstr "Juillet"
+
+#: common.php:6056 form_detail.php:1475
+msgid "June"
+msgstr "Juin"
+
+#: common.php:6054 form_detail.php:1475
+msgid "April"
+msgstr "Avril"
+
+#: common.php:6053 form_detail.php:1475
+msgid "March"
+msgstr "Mars"
+
+#: common.php:6052 form_detail.php:1475
+msgid "February"
+msgstr "Février"
+
+#: common.php:6051 form_detail.php:1475
+msgid "January"
+msgstr "Janvier"
+
+#: form_detail.php:1475
+msgid "Months of the Year"
+msgstr "Mois de l’année"
+
+#: form_detail.php:1474
+msgid "Saturday"
+msgstr "Samedi"
+
+#: form_detail.php:1474
+msgid "Friday"
+msgstr "Vendredi"
+
+#: form_detail.php:1474
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: form_detail.php:1474
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: form_detail.php:1474
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: form_detail.php:1474
+msgid "Monday"
+msgstr "Lundi"
+
+#: form_detail.php:1474
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: form_detail.php:1474
+msgid "Days of the Week"
+msgstr "Jours de la semaine"
+
+#: form_detail.php:1473
+msgid "Some College"
+msgstr "Collège/CÉGEP"
+
+#: form_detail.php:1473
+msgid "Graduate or Professional Degree"
+msgstr "Diplôme d'études supérieures ou diplôme professionnel"
+
+#: form_detail.php:1473
+msgid "Bachelor's Degree"
+msgstr "Bachelier(e)"
+
+#: form_detail.php:1473
+msgid "Associate Degree"
+msgstr "Diplôme d’études secondaires"
+
+#: form_detail.php:1473
+msgid "High School"
+msgstr "Secondaire"
+
+#: form_detail.php:1473
+msgid "Education"
+msgstr "Éducation"
+
+#: form_detail.php:1472
+msgid "Transportation/Logistics"
+msgstr "Transport / Logistique"
+
+#: form_detail.php:1472
+msgid "Telecommunications"
+msgstr "Télécommunications"
+
+#: form_detail.php:1472
+msgid "Technology"
+msgstr "Technologie"
+
+#: form_detail.php:1472
+msgid "Skilled Labor"
+msgstr "Main-d’œuvre qualifiée"
+
+#: form_detail.php:1472
+msgid "Science/Research"
+msgstr "Science / Recherche"
+
+#: form_detail.php:1472
+msgid "Sales"
+msgstr "Vente"
+
+#: form_detail.php:1472
+msgid "Retail"
+msgstr "Détaillant"
+
+#: form_detail.php:1472
+msgid "Restaurant/Food Service"
+msgstr "Restauration"
+
+#: form_detail.php:1472
+msgid "Real Estate"
+msgstr "Immobilier"
+
+#: form_detail.php:1472
+msgid "QA/Quality Control"
+msgstr "AQ / Contrôle de la qualité"
+
+#: form_detail.php:1472
+msgid "Professional Services"
+msgstr "Services professionnels"
+
+#: form_detail.php:1472
+msgid "Pharmaceutical/Biotech"
+msgstr "Pharmaceutique / Biotechnologies"
+
+#: form_detail.php:1472
+msgid "Non-Profit/Volunteer"
+msgstr "Sans but lucratif/Bénévole"
+
+#: form_detail.php:1472
+msgid "Marketing"
+msgstr "Marketing"
+
+#: form_detail.php:1472
+msgid "Manufacturing/Operations"
+msgstr "Manufacturier / Opérations"
+
+#: form_detail.php:1472
+msgid "Management/Executive"
+msgstr "Gestion/Administration"
+
+#: form_detail.php:1472
+msgid "Legal"
+msgstr "Légal"
+
+#: form_detail.php:1472
+msgid "Law Enforcement/Security"
+msgstr "Policier/Sécurité"
+
+#: form_detail.php:1472
+msgid "Job Search Aids"
+msgstr "Aide à la recherche d’emploi"
+
+#: form_detail.php:1472
+msgid "Internet"
+msgstr "Internet"
+
+#: form_detail.php:1472
+msgid "Insurance"
+msgstr "Assurance"
+
+#: form_detail.php:1472
+msgid "Installation/Maintenance"
+msgstr "Installation/Maintenance"
+
+#: form_detail.php:1472
+msgid "Human Resources"
+msgstr "Ressources humaines"
+
+#: form_detail.php:1472
+msgid "Hospitality/Travel"
+msgstr "Tourisme/HôtellerieVoyage"
+
+#: form_detail.php:1472
+msgid "Healthcare"
+msgstr "Soins de santé"
+
+#: form_detail.php:1472
+msgid "Government/Military"
+msgstr "Gouvernement / militaire"
+
+#: form_detail.php:1472
+msgid "Engineering"
+msgstr "Ingénierie"
+
+#: form_detail.php:1472
+msgid "Energy/Utilities"
+msgstr "Énergie/Services publics"
+
+#: form_detail.php:1472
+msgid "Education/Training"
+msgstr "Éducation / Formation"
+
+#: form_detail.php:1472
+msgid "Customer Service"
+msgstr "Service à la clientèle"
+
+#: form_detail.php:1472
+msgid "Consumer Goods"
+msgstr "Biens de consommation/commerce de détail"
+
+#: form_detail.php:1472
+msgid "Construction/Facilities"
+msgstr "Construction"
+
+#: form_detail.php:1472
+msgid "Clerical/Administrative"
+msgstr "De bureau/administratif"
+
+#: form_detail.php:1472
+msgid "Business Opportunity"
+msgstr "Opportunités d’affaires"
+
+#: form_detail.php:1472
+msgid "Business Development"
+msgstr "Développement des affaires"
+
+#: form_detail.php:1472
+msgid "Banking/Mortgage"
+msgstr "Banque/Hypothèques"
+
+#: form_detail.php:1472
+msgid "Automotive"
+msgstr "Automobile"
+
+#: form_detail.php:1472
+msgid "Arts/Entertainment/Publishing"
+msgstr "Arts/Divertissement/Édition"
+
+#: form_detail.php:1472
+msgid "Aerospace/Aviation"
+msgstr "Aéronautique / Aviation"
+
+#: form_detail.php:1472
+msgid "Advertising/Public Relations"
+msgstr "Publicité /Relations publiques"
+
+#: form_detail.php:1472
+msgid "Accounting/Finance"
+msgstr "Comptabilité/Finance"
+
+#: form_detail.php:1472
+msgid "Industry"
+msgstr "Secteur"
+
+#: form_detail.php:1471
+msgid "Seasonal"
+msgstr "Saisonnier(e)"
+
+#: form_detail.php:1471
+msgid "Intern"
+msgstr "Stagiaire"
+
+#: form_detail.php:1471
+msgid "Contract"
+msgstr "Contractuel(e)"
+
+#: form_detail.php:1471
+msgid "Temporary"
+msgstr "Temporaire"
+
+#: form_detail.php:1471
+msgid "Employee"
+msgstr "Salarié(e)"
+
+#: form_detail.php:1471
+msgid "Per Diem"
+msgstr "Journalier"
+
+#: form_detail.php:1471
+msgid "Part-Time"
+msgstr "Temps partiel"
+
+#: form_detail.php:1471
+msgid "Full-Time"
+msgstr "Temps plein"
+
+#: form_detail.php:1471
+msgid "Job Type"
+msgstr "Type d’emploi"
+
+#: form_detail.php:1470
+msgid "Student"
+msgstr "Étudiant(e)"
+
+#: form_detail.php:1470
+msgid "Retired"
+msgstr "Retraité(e)"
+
+#: form_detail.php:1470
+msgid "Homemaker"
+msgstr "Au foyer"
+
+#: form_detail.php:1470
+msgid "Not employed and not looking for work"
+msgstr "Pas d’emploi et n'en cherche pas"
+
+#: form_detail.php:1470
+msgid "Not employed but looking for work"
+msgstr "Pas d’emploi mais en recherche"
+
+#: form_detail.php:1470
+msgid "Self-employed"
+msgstr "Indépendant(e)"
+
+#: form_detail.php:1470
+msgid "Employed Part-Time"
+msgstr "Employé(e) à temps partiel"
+
+#: form_detail.php:1470
+msgid "Employed Full-Time"
+msgstr "Employé(e) à temps plein"
+
+#: form_detail.php:1470
+msgid "Employment"
+msgstr "Emploi"
+
+#: form_detail.php:1469
+msgid "Widowed"
+msgstr "Veuf/veuve"
+
+#: form_detail.php:1469
+msgid "Divorced"
+msgstr "Divorcé(e)"
+
+#: form_detail.php:1469
+msgid "Married"
+msgstr "Marié(e)"
+
+#: form_detail.php:1469
+msgid "Single"
+msgstr "Célibataire"
+
+#: form_detail.php:1469
+msgid "Marital Status"
+msgstr "État civil"
+
+#: form_detail.php:1468
+msgid "65 or Above"
+msgstr "65 ans et plus"
+
+#: form_detail.php:1468
+msgid "55-64"
+msgstr "55-64"
+
+#: form_detail.php:1468
+msgid "45-54"
+msgstr "45-54"
+
+#: form_detail.php:1468
+msgid "35-44"
+msgstr "34-44"
+
+#: form_detail.php:1468
+msgid "25-34"
+msgstr "25-34"
+
+#: form_detail.php:1468
+msgid "18-24"
+msgstr "18-24"
+
+#: form_detail.php:1468
+msgid "Under 18"
+msgstr "Moins de 18 ans"
+
+#: form_detail.php:1468
+msgid "Age"
+msgstr "Âge"
+
+#: form_detail.php:1467 form_detail.php:1468 form_detail.php:1470
+#: form_detail.php:1473
+msgid "Prefer Not to Answer"
+msgstr "Préfère ne pas répondre"
+
+#: form_detail.php:1467
+msgid "Female"
+msgstr "Féminin"
+
+#: form_detail.php:1467
+msgid "Male"
+msgstr "Masculin"
+
+#: form_detail.php:1467
+msgid "Gender"
+msgstr "Sexe"
+
+#: form_detail.php:1466
+msgid "South America"
+msgstr "Amérique du Sud"
+
+#: form_detail.php:1466
+msgid "North America"
+msgstr "Amérique du Nord"
+
+#: form_detail.php:1466
+msgid "Europe"
+msgstr "Europe"
+
+#: form_detail.php:1466
+msgid "Asia"
+msgstr "Asie"
+
+#: form_detail.php:1466
+msgid "Africa"
+msgstr "Afrique"
+
+#: form_detail.php:1466
+msgid "Continents"
+msgstr "Continents"
+
+#: form_detail.php:1465
+msgid "Canadian Province/Territory"
+msgstr "Provinces et territoires Canadiens"
+
+#: form_detail.php:1464
+msgid "U.S. States"
+msgstr "États américains"
+
+#: form_detail.php:1463
+msgid "Countries"
+msgstr "Pays"
+
+#: form_detail.php:1453
+msgid "Bulk Add / Predefined Choices"
+msgstr "Ajout groupé / Choix prédéfinis"
+
+#: form_detail.php:1448 form_detail.php:2155
+msgid "Label"
+msgstr "Libellé"
+
+#: form_detail.php:1443
+msgid "Choices"
+msgstr "Choix"
+
+#: form_detail.php:1440
+msgid "show values"
+msgstr "afficher les valeurs"
+
+#: form_detail.php:1418
+msgid "Phone Format"
+msgstr "Format du numéro de téléphone"
+
+#: form_detail.php:1408
+msgid "24 hour"
+msgstr "24 heures"
+
+#: form_detail.php:1407
+msgid "12 hour"
+msgstr "12 heures"
+
+#: form_detail.php:1403 tooltips.php:76
+msgid "Time Format"
+msgstr "Format d’heure"
+
+#: form_detail.php:1391 tooltips.php:61
+msgid "Maximum Rows"
+msgstr "Lignes maximum"
+
+#: form_detail.php:1378
+msgid "Enable multiple columns"
+msgstr "Activer les colonnes multiples"
+
+#: form_detail.php:1375
+msgid "Columns"
+msgstr "Colonnes"
+
+#: form_detail.php:1366
+msgid "Maximum allowed on this server: %sMB"
+msgstr "Maximum autorisé sur ce serveur : %s Mo"
+
+#: form_detail.php:1359 tooltips.php:80
+msgid "Maximum File Size"
+msgstr "Taille maximum de fichier"
+
+#: form_detail.php:1345 tooltips.php:79
+msgid "Maximum Number of Files"
+msgstr "Nombre maximum de fichiers"
+
+#: form_detail.php:1336 tooltips.php:78
+msgid "Enable Multi-File Upload"
+msgstr "Activer l’envoi multiple de fichiers"
+
+#: form_detail.php:1332
+msgid "Multiple Files"
+msgstr "Fichiers multiples"
+
+#: form_detail.php:1325
+msgid "Separated with commas (i.e. jpg, gif, png, pdf)"
+msgstr "Séparées par des virgules (i.e. jpg, gif, png, pdf)"
+
+#: form_detail.php:1319
+msgid "Allowed file extensions"
+msgstr "Extensions de fichiers autorisées"
+
+#: form_detail.php:1306
+msgid "Customize Fields"
+msgstr "Personnaliser les champs"
+
+#: form_detail.php:1274
+msgid "Date Format"
+msgstr "Format de la date"
+
+#: form_detail.php:1265
+msgid "Preview this form to see your custom icon."
+msgstr "Prévisualiser ce formulaire pour voir votre icône personnalisée."
+
+#: form_detail.php:1261
+msgid "Image Path: "
+msgstr "Chemin de l’image :"
+
+#: form_detail.php:1257
+msgid "Custom Icon"
+msgstr "Icône personnalisée"
+
+#: form_detail.php:1254
+msgid "Calendar Icon"
+msgstr "Icône de calendrier"
+
+#: form_detail.php:1251
+msgid "No Icon"
+msgstr "Pas d’icône"
+
+#: form_detail.php:1245
+msgid "Date Drop Down"
+msgstr "Menu déroulant de date"
+
+#: form_detail.php:1244
+msgid "Date Picker"
+msgstr "Sélectionneur de date"
+
+#: form_detail.php:1243
+msgid "Date Field"
+msgstr "Champ de date"
+
+#: form_detail.php:1239 tooltips.php:62
+msgid "Date Input Type"
+msgstr "Type d’entrée de date"
+
+#: form_detail.php:1224 tooltips.php:96
+msgid "Name Fields"
+msgstr "Champs de nom"
+
+#: form_detail.php:1214
+msgid "Extended"
+msgstr "Étendu"
+
+#: form_detail.php:1210
+msgid "Name Format"
+msgstr "Format du nom"
+
+#: form_detail.php:1191 tooltips.php:66
+msgid "Default Country"
+msgstr "Pays par défaut"
+
+#: form_detail.php:1179
+msgid "Default %s"
+msgstr "%s par défaut"
+
+#: form_detail.php:1156 tooltips.php:98
+msgid "Address Fields"
+msgstr "Champs Adresse"
+
+#: form_detail.php:1141 tooltips.php:63
+msgid "Address Type"
+msgstr "Type d’adresse"
+
+#: form_detail.php:1129 tooltips.php:141
+msgid "Set as Featured Image"
+msgstr "Afficher comme image mise en avant"
+
+#: form_detail.php:1127
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: form_detail.php:1100
+msgid "Image Metadata"
+msgstr "Méta données de l’image"
+
+#: form_detail.php:1052 form_detail.php:1070 form_detail.php:1085
+msgid "Create content template"
+msgstr "Créer un modèle de contenu"
+
+#: form_detail.php:1049 form_detail.php:1067
+msgid "Content Template"
+msgstr "Modèle de contenu"
+
+#: form_detail.php:1041
+msgid "Placeholder Label"
+msgstr "Libellé de l’espace réservé"
+
+#: form_detail.php:1035
+msgid "Display placeholder"
+msgstr "Affichage d’espace réservé"
+
+#: form_detail.php:1013
+msgid "Select Categories"
+msgstr "Sélectionnez les catégories"
+
+#: form_detail.php:1010
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: form_detail.php:977 js.php:622 tooltips.php:132 tooltips.php:138
+msgid "Post Category"
+msgstr "Catégorie d’article"
+
+#: form_detail.php:949 tooltips.php:135
+msgid "Post Format"
+msgstr "Format de l’article"
+
+#: form_detail.php:937
+msgid "Use logged in user as author"
+msgstr "Utiliser l’utilisateur connecté comme auteur"
+
+#: form_detail.php:927
+msgid "Default Post Author"
+msgstr "Auteur de l’article par défaut"
+
+#: form_detail.php:913
+msgid "Published"
+msgstr "Publié"
+
+#: form_detail.php:912
+msgid "Pending Review"
+msgstr "En attente de relecture"
+
+#: form_detail.php:911
+msgid "Draft"
+msgstr "Brouillon"
+
+#: form_detail.php:906 tooltips.php:133
+msgid "Post Status"
+msgstr "État de l’article"
+
+#: form_detail.php:889
+msgid "Select an existing custom field"
+msgstr "Sélectionnez un champ personnalisé existant"
+
+#: form_detail.php:884
+msgid "New"
+msgstr "Nouveau"
+
+#: form_detail.php:880
+msgid "Existing"
+msgstr "Existant"
+
+#: form_detail.php:874 tooltips.php:58
+msgid "Custom Field Name"
+msgstr "Nom du champ personnalisé"
+
+#: form_detail.php:850
+msgid "Dark"
+msgstr "Sombre"
+
+#: form_detail.php:849
+msgid "Light"
+msgstr "Clair"
+
+#: form_detail.php:845
+msgid "Theme"
+msgstr "Thème"
+
+#: form_detail.php:824
+msgid "Font Color"
+msgstr "Couleur du texte"
+
+#: common.php:888 form_detail.php:816 form_detail.php:1483
+#: includes/fields/class-gf-field.php:2316
+msgid "Large"
+msgstr "Grande"
+
+#: form_detail.php:814 form_detail.php:1483
+#: includes/fields/class-gf-field.php:2314
+msgid "Small"
+msgstr "Petite"
+
+#: form_detail.php:811 form_detail.php:1483
+msgid "Size"
+msgstr "Taille"
+
+#: form_detail.php:803
+msgid "Math Challenge"
+msgstr "Défi mathématique"
+
+#: form_detail.php:802
+msgid "Really Simple CAPTCHA"
+msgstr "CAPTCHA simple"
+
+#: form_detail.php:761 form_detail.php:2587 tooltips.php:149
+msgid "Advanced Fields"
+msgstr "Champs avancés"
+
+#: form_detail.php:751 form_detail.php:2569 tooltips.php:148
+msgid "Standard Fields"
+msgstr "Champs standards"
+
+#: form_detail.php:737
+msgid "Disable default margins"
+msgstr "Désactiver les marges par défaut"
+
+#: form_detail.php:685 form_detail.php:717
+msgid "Text:"
+msgstr "Texte :"
+
+#: common.php:5212 form_detail.php:672
+msgid "Next Button"
+msgstr "Bouton suivant"
+
+#: form_detail.php:604
+msgid "Disable quantity field"
+msgstr "Désactiver le champ de quantité"
+
+#: form_detail.php:583
+msgid "Single Method"
+msgstr "Méthode simple"
+
+#: form_detail.php:570
+msgid "Calculation"
+msgstr "Calculs"
+
+#: form_detail.php:568 form_detail.php:635
+msgid "User Defined Price"
+msgstr "Prix défini par l’utilisateur"
+
+#: form_detail.php:565
+msgid "Single Product"
+msgstr "Produit simple"
+
+#: form_detail.php:560 form_detail.php:578 form_detail.php:614
+#: form_detail.php:629 form_detail.php:644 form_detail.php:746
+#: form_detail.php:777 form_detail.php:989
+msgid "Field Type"
+msgstr "Type de champ"
+
+#: form_detail.php:548
+msgid "Product Field Mapping"
+msgstr "Champ de produit"
+
+#: form_detail.php:517 tooltips.php:52 tooltips.php:53
+msgid "Field Label"
+msgstr "Libellé du champ"
+
+#: form_detail.php:130 form_detail.php:1215 form_detail.php:2100
+#: includes/blocks/js/src/blocks/form/edit.js:216 js/blocks.js:327
+msgid "Advanced"
+msgstr "Avancé"
+
+#: form_detail.php:303
+msgid "Return to Form List"
+msgstr "Retour à la liste de formulaires"
+
+#: form_detail.php:299
+msgid "Continue Editing this Form"
+msgstr "Continuer à modifier ce formulaire"
+
+#: form_detail.php:294
+msgid "Setup Email Notifications for this Form"
+msgstr "Configurer les e-mails de notifications pour ce formulaire"
+
+#: form_detail.php:289
+msgid "Preview this Form"
+msgstr "Prévisualiser ce formulaire"
+
+#: form_detail.php:286
+msgid "What would you like to do next?"
+msgstr "Que voulez-vous faire ensuite ?"
+
+#: form_detail.php:284
+msgid "You have successfully saved your form!"
+msgstr "Votre formulaire a bien été enregistré !"
+
+#: form_detail.php:497 form_detail.php:692 form_detail.php:724
+msgid "Image Path:"
+msgstr "Chemin de l’image :"
+
+#: form_detail.php:490
+msgid "Button Text:"
+msgstr "Texte du bouton :"
+
+#: form_detail.php:483 form_detail.php:677 form_detail.php:710
+msgid "Default"
+msgstr "Par défaut"
+
+#: form_detail.php:477 form_detail.php:704
+msgid "Previous Button"
+msgstr "Bouton précédent"
+
+#: form_detail.php:275
+msgid "END PAGING"
+msgstr "Fin de la pagination"
+
+#: form_detail.php:470
+msgid "Completion Text"
+msgstr "Texte de complétion"
+
+#: form_detail.php:463
+msgid "Display completed progress bar on confirmation"
+msgstr "Afficher la barre de progression complète lors de la confirmation"
+
+#: form_detail.php:452 tooltips.php:125
+msgid "Page Names"
+msgstr "Noms de pages"
+
+#: form_detail.php:445 form_detail.php:833
+msgid "Background Color"
+msgstr "Couleur de fond"
+
+#: form_detail.php:439
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: common.php:787 common.php:945 form_detail.php:434 form_detail.php:1713
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: form_detail.php:430
+msgid "Red"
+msgstr "Rouge"
+
+#: form_detail.php:429
+msgid "Orange"
+msgstr "Orange"
+
+#: form_detail.php:428 form_detail.php:1472
+msgid "Green"
+msgstr "Vert"
+
+#: form_detail.php:427
+msgid "Gray"
+msgstr "Gris"
+
+#: form_detail.php:426
+msgid "Blue"
+msgstr "Bleu"
+
+#: form_detail.php:422 tooltips.php:124
+msgid "Progress Bar Style"
+msgstr "Style de la barre de progression"
+
+#: form_detail.php:416 form_detail.php:1630
+msgid "None"
+msgstr "Aucun"
+
+#: form_detail.php:414
+msgid "Steps"
+msgstr "Étapes"
+
+#: form_detail.php:412
+msgid "Progress Bar"
+msgstr "Barre de progression"
+
+#: form_detail.php:407 tooltips.php:123
+msgid "Progress Indicator"
+msgstr "Indicateur de progression"
+
+#: form_detail.php:127 form_detail.php:1919
+msgid "Appearance"
+msgstr "Apparence"
+
+#: form_detail.php:124 form_detail.php:402
+msgid "General"
+msgstr "Général"
+
+#: form_detail.php:251
+msgid "START PAGING"
+msgstr "Début de la pagination"
+
+#: tooltips.php:168 widget.php:172
+msgid "If you have other forms on the page (i.e. Comments Form), specify a higher tabindex start value so that your Gravity Form does not end up with the same tabindices as your other forms. To disable the tabindex, enter 0 (zero)."
+msgstr "Si vous avez d’autres formulaires sur la même page (Ex : un formulaire de contact), veuillez spécifier un index de tabulation plus élevé pour que votre formulaire n’ai pas les mêmes index de tabulation que les autres formulaires. Pour désactiver l’index de tabulation, saisissez 0 (zero)."
+
+#: widget.php:170
+msgid "Tab Index Start"
+msgstr "Début de l’index de tabulation (Tab Index)"
+
+#: widget.php:169
+msgid "Disable script output"
+msgstr "Désactiver la sortie de script"
+
+#: gravityforms.php:5796 widget.php:167
+msgid "Enable Ajax"
+msgstr "Activer Ajax"
+
+#: gravityforms.php:5788 widget.php:160
+msgid "Display form description"
+msgstr "Afficher la description du formulaire"
+
+#: gravityforms.php:5780 widget.php:158
+msgid "Display form title"
+msgstr "Afficher le titre du formulaire"
+
+#: export.php:586 gravityforms.php:5755 widget.php:142
+#: includes/blocks/js/src/blocks/form/edit.js:90 js/blocks.js:194
+msgid "Select a Form"
+msgstr "Sélectionnez un formulaire"
+
+#: widget.php:135
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: gravityforms.php:5219 widget.php:38
+#: includes/blocks/js/src/blocks/form/edit.js:194 js/blocks.js:308
+msgid "Form"
+msgstr "Formulaire"
+
+#: widget.php:34
+msgid "Gravity Forms Widget"
+msgstr "Widget Gravity Forms"
+
+#: export.php:1231
+msgid "The PHP readfile function is not available, please contact the web host."
+msgstr "La fonction PHP de lecture de fichier n’est pas disponible, veuillez contacter votre hébergeur."
+
+#: export.php:1047
+msgid "User Agent"
+msgstr "Agent utilisateur"
+
+#: common.php:746 export.php:1046
+msgid "Post Id"
+msgstr "ID de l’article"
+
+#: export.php:1037
+msgid "Created By (User Id)"
+msgstr "Créé par (ID utilisateur)"
+
+#: export.php:660
+msgid "Exporting entries. Progress:"
+msgstr "Exportation des entrées. Progression :"
+
+#: export.php:650
+msgid "Date Range is optional, if no date range is selected all entries will be exported."
+msgstr "La plage de dates est optionnelle. Si aucune plage n’est sélectionnée, toutes les entrées seront exportées."
+
+#: export.php:635
+msgid "Select Date Range"
+msgstr "Choisir une plage de dates"
+
+#: export.php:616
+msgid "Select Fields"
+msgstr "Sélectionnez les champs"
+
+#: export.php:591
+msgid "Select a form"
+msgstr "Sélectionnez un formulaire"
+
+#: export.php:580
+msgid "Select a form below to export entries. Once you have selected a form you may select the fields you would like to export and then define optional filters for field values and the date range. When you click the download button below, Gravity Forms will create a CSV file for you to save to your computer."
+msgstr "Sélectionnez un formulaire ci-dessous pour exporter ses entrées. Lorsque vous aurez sélectionné un formulaire, vous pourrez sélectionner les champs que vous souhaitez exporter ainsi qu’une plage optionnelle de dates. Lorsque vous cliquerez sur le bouton de téléchargement ci-dessous, Gravity Forms créera un fichier CSV que vous pourrez enregistrer sur votre ordinateur."
+
+#: export.php:516
+msgid "Please select the fields to be exported"
+msgstr "Veuillez sélectionner les champs à exporter."
+
+#: export.php:507
+msgid "Export entries if {0} of the following match:"
+msgstr "Exporter les entrées si {0} des critères suivants correspondent :"
+
+#: export.php:482
+msgid "Ajax error while selecting a form"
+msgstr "Une erreur Ajax est survenue lors de la sélection du formulaire"
+
+#: export.php:577 export.php:1088
+msgid "Export Entries"
+msgstr "Exporter des entrées"
+
+#: export.php:440 export.php:658
+msgid "Download Export File"
+msgstr "Télécharger le fichier d’export"
+
+#: export.php:405
+msgid "Select Forms"
+msgstr "Sélectionnez les formulaires"
+
+#: export.php:400
+msgid "Select the forms you would like to export. When you click the download button below, Gravity Forms will create a JSON file for you to save to your computer. Once you've saved the download file, you can use the Import tool to import the forms."
+msgstr "Sélectionnez les formulaires que vous souhaitez exporter. Lorsque vous cliquerez sur le bouton de téléchargement ci-dessous, Gravity Forms créera un fichier JSON que vous pourrez enregistrer sur votre ordinateur. Lorsque vous aurez enregistré le fichier, vous pourrez utiliser l’outil d'importation pour importer les formulaires."
+
+#: export.php:397 export.php:1097
+msgid "Export Forms"
+msgstr "Exporter des formulaires"
+
+#: export.php:351
+msgid "Import"
+msgstr "Importer"
+
+#: export.php:330 export.php:1105
+msgid "Import Forms"
+msgstr "Importer des formulaires"
+
+#: common.php:6080 export.php:319
+#: includes/blocks/js/src/blocks/form/edit.js:140
+#: includes/blocks/js/src/blocks/form/edit.js:144 js/blocks.js:244
+#: js/blocks.js:252
+msgid "Edit Form"
+msgstr "Modifier le formulaire"
+
+#: export.php:318
+msgid "form"
+msgstr "formulaire"
+
+#: export.php:318
+msgid "forms"
+msgstr "formulaires"
+
+#: export.php:316
+msgid "Forms could not be imported. Your export file is not compatible with your current version of Gravity Forms."
+msgstr "Les formulaires n’ont pu être importés. Votre fichier d'export n'est pas compatible avec votre version actuelle de Gravity Forms."
+
+#: export.php:19
+msgid "Please select the forms to be exported"
+msgstr "Veuillez sélectionner les formulaires à exporter"
+
+#: common.php:5187 common.php:5236 forms_model.php:6748
+msgid "Thanks for contacting us! We will get in touch with you shortly."
+msgstr "Merci de nous avoir contacté ! Nous vous répondrons dans les plus brefs délais."
+
+#: forms_model.php:6729
+msgid "Save and Continue Email Sent Confirmation"
+msgstr "Confirmation d’envoi de mail Enregistrer et continuer"
+
+#: forms_model.php:6710
+msgid "Save and Continue Confirmation"
+msgstr "Confirmation Enregistrer et continuer"
+
+#: forms_model.php:6681 forms_model.php:6745
+msgid "Default Confirmation"
+msgstr "Confirmation par défaut"
+
+#: common.php:5862 export.php:1043 forms_model.php:6376 select_columns.php:200
+msgid "Payment Date"
+msgstr "Date du paiement"
+
+#: common.php:5857 export.php:1044 forms_model.php:6370 select_columns.php:197
+msgid "Payment Status"
+msgstr "Statut du paiement"
+
+#: forms_model.php:1391
+msgid "Notification not found"
+msgstr "Notification introuvable"
+
+#: forms_model.php:1223
+msgid "User Notification"
+msgstr "Notification utilisateur"
+
+#: forms_model.php:1199 form_detail.php:3063
+msgid "Admin Notification"
+msgstr "Notification administrateur"
+
+#: form_list.php:892
+msgid "%s form has been marked as inactive."
+msgid_plural "%s forms have been marked as inactive."
+msgstr[0] "%s formulaire a été désactivé."
+msgstr[1] "%s formulaires ont été désactivés."
+
+#: form_list.php:886
+msgid "%s form has been marked as active."
+msgid_plural "%s forms have been marked as active."
+msgstr[0] "%s formulaire a été activé."
+msgstr[1] "%s formulaires ont été activés."
+
+#: form_list.php:876
+msgid "Entries for %s form have been deleted."
+msgid_plural "Entries for %s forms have been deleted."
+msgstr[0] "Les entrées pour %s formulaire ont été supprimés."
+msgstr[1] "Les entrées pour %s formulaires ont été supprimés."
+
+#: form_list.php:869
+msgid "Views for %s form have been reset."
+msgid_plural "Views for %s forms have been reset."
+msgstr[0] "Les vues pour %s formulaire ont été ré-initialisées."
+msgstr[1] "Les vues pour %s formulaires ont été ré-initialisées."
+
+#: form_list.php:861
+msgid "You don't have adequate permissions to delete forms."
+msgstr "Vous n’avez pas les permissions pour supprimer des formulaires."
+
+#: form_list.php:859
+msgid "%s form deleted."
+msgid_plural "%s forms deleted."
+msgstr[0] "%s formulaire supprimé."
+msgstr[1] "%s formulaires supprimés."
+
+#: form_list.php:851
+msgid "%s form restored."
+msgid_plural "%s forms restored."
+msgstr[0] "%s formulaire restauré."
+msgstr[1] "%s formulaires restaurés."
+
+#: form_list.php:843
+msgid "%s form moved to the trash."
+msgid_plural "%s forms moved to the trash."
+msgstr[0] "%s formulaire déplacé vers la corbeille."
+msgstr[1] "%s formulaires déplacés vers la corbeille."
+
+#: form_list.php:790 form_list.php:821
+msgid "Form duplicated."
+msgstr "Formulaire dupliqué."
+
+#: form_list.php:783
+msgid "You don't have adequate permission to delete forms."
+msgstr "Vous n’avez pas les permissions pour supprimer des formulaires."
+
+#: form_list.php:780
+msgid "Form deleted."
+msgstr "Formulaire supprimé."
+
+#: form_list.php:770
+msgid "Form restored."
+msgstr "Formulaire restauré."
+
+#: form_list.php:760 form_list.php:809
+msgid "Form moved to the trash."
+msgstr "Formulaire déplacé vers la corbeille."
+
+#: form_list.php:736
+msgid "You don't have any forms. Let's go %screate one%s!"
+msgstr "Vous n’avez aucun formulaire. %sCréez-en un%s !"
+
+#: form_list.php:734
+msgid "There are no forms in the trash."
+msgstr "Il n’y a aucun formulaire dans la corbeille."
+
+#: form_list.php:729
+msgid "No forms were found for your search query. %sView all forms%s."
+msgstr "Aucun formulaire ne correspond à vos critères de recherche. %sVoir tous les formulaires%s."
+
+#: form_list.php:704
+msgid "Move this form to the trash"
+msgstr "Déplacer ce formulaire vers la corbeille"
+
+#: form_list.php:540
+msgid "Conversion"
+msgstr "Conversion"
+
+#: form_list.php:539
+msgid "Views"
+msgstr "Vues"
+
+#: form_list.php:538 gravityforms.php:1685 gravityforms.php:5038
+#: gravityforms.php:5291
+msgid "Entries"
+msgstr "Entrées"
+
+#: form_list.php:537
+msgid "ID"
+msgstr "ID"
+
+#: form_list.php:525
+msgid "Move to trash"
+msgstr "Déplacer vers la corbeille"
+
+#: form_list.php:524
+msgid "Permanently Delete Entries"
+msgstr "Supprimer définitivement les entrées"
+
+#: form_list.php:523
+msgid "Reset Views"
+msgstr "Réinitialiser le nombre de vues"
+
+#: form_list.php:522
+msgid "Mark as Inactive"
+msgstr "Marquer comme inactif"
+
+#: form_list.php:521
+msgid "Mark as Active"
+msgstr "Marquer comme actif"
+
+#: form_list.php:517 form_list.php:676
+msgid "Delete permanently"
+msgstr "Supprimer définitivement"
+
+#: form_list.php:440
+msgctxt "Form List"
+msgid "Trash"
+msgstr "Corbeille"
+
+#: form_list.php:439
+msgctxt "Form List"
+msgid "Inactive"
+msgstr "Inactifs"
+
+#: form_list.php:438
+msgctxt "Form List"
+msgid "Active"
+msgstr "Actifs"
+
+#: form_list.php:437
+msgctxt "Form List"
+msgid "All"
+msgstr "Tous"
+
+#: form_list.php:352
+msgid "Saved! Redirecting..."
+msgstr "Enregistré ! Redirection en cours..."
+
+#: form_list.php:318
+msgid "Creating Form..."
+msgstr "Création du formulaire..."
+
+#: form_list.php:302
+msgid "Create a New Form"
+msgstr "Créer un nouveau formulaire"
+
+#: form_list.php:215 form_list.php:235
+msgid "There was an issue creating your form."
+msgstr "Une erreur s’est produite lors de la création de votre formulaire."
+
+#: form_list.php:200
+msgid "Search Forms"
+msgstr "Rechercher dans les formulaires"
+
+#: form_list.php:171
+msgid "WARNING: You are about to delete ALL entries associated with the selected forms. "
+msgstr "AVERTISSEMENT : Vous êtes sur le point de supprimer TOUTES les entrées associées aux formulaires sélectionnés."
+
+#: form_list.php:169
+msgid "'Cancel' to stop, 'OK' to reset."
+msgstr "« OK » pour réinitialiser, « Annuler » pour arrêter."
+
+#: includes/settings/class-settings.php:984
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"

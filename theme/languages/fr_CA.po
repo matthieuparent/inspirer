@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inspirer. Respirer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-18 03:25+0000\n"
+"PO-Revision-Date: 2022-02-18 03:27+0000\n"
+"Last-Translator: Matthieu Parent\n"
+"Language-Team: Français du Canada\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.8\n"
+"X-Domain: gbi_inspire"
+
+#: front-page.php:45
+msgid "Découvre argenteuil"
+msgstr ""
+
+#. Name of the theme
+msgid "Inspirer. Respirer"
+msgstr ""
+
+#. Author of the theme
+msgid "Matthieu Parent"
+msgstr ""
+
+#. Name of the template
+msgid "Page emploi"
+msgstr ""

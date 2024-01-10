@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 9 September 2021 1 h 57 min
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.2
+WORDPRESS:	5.8
+PHP INFO:	7.4.22 | SAPI: apache2handler
+SERVER:		Apache/2.4.38 (Debian) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (64M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:22 | filtered:0 | create:22
+FILTERED: []
+SQL CREATED: 20210813_inspirerrespirer_58daf279f07b7de42685_20210909015740_database.sql
+SQL FILE SIZE: 3.07MB (3217175)
+SQL FILE TIME: 2021-09-09 01:58:00
+SQL RUNTIME: 3.58 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /var/www/html
+ARCHIVE FILE: 20210813_inspirerrespirer_58daf279f07b7de42685_20210909015740_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	119.89MB
+STATS:	Dirs 513 | Files 3,947
+SQL ADDED: 20210813_inspirerrespirer_58daf279f07b7de42685_20210909015740_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4460
+    [filename] => /var/www/html/wp-content/backups-dup-lite/tmp/20210813_inspirerrespirer_58daf279f07b7de42685_20210909015740_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4459
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 62.81MB
+ARCHIVE RUNTIME: 195.84 sec.
+MEMORY STACK: 4MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip /var/www/html/wp-content/backups-dup-lite/tmp/20210813_inspirerrespirer_58daf279f07b7de42685_20210909015740_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 3.07MB
+INSTALLER FILE: 64.26KB
+ARCHIVE FILE: 64.17MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,460
+ACTUAL FILE/DIRECTORY COUNT: 4,459
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 248.07 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => 20210813_inspirerrespirer 9 September 2021 2 h 02 min
+

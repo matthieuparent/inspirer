@@ -1,0 +1,98 @@
+/* ==========================================================================
+   card / components
+   ========================================================================== */
+
+.card {
+    --color-card-title: var(--color-highlight);
+    display: flex;
+    flex-direction: column;
+
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.14),
+        0px 1px 10px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.2);
+    &:hover {
+        text-decoration: none;
+        .card__media img {
+            transform: scale(1);
+        }
+
+        .link {
+            color: var(--color-card-tile);
+            text-decoration: none;
+            .icon {
+                transform: translate(5px, -2px) rotate(-15deg);
+            }
+        }
+    }
+}
+.card__media {
+    overflow: hidden;
+    img {
+        width: 100%;
+        display: block;
+        object-fit: cover;
+        aspect-ratio: 4/3;
+        transform: scale(1.3);
+        transition: all 1s $ease-out-quad;
+    }
+}
+.card__content {
+    background: var(--color-white);
+    color: var(--color-black);
+    padding: var(--spacing-sm);
+    position: relative;
+    border-radius: 0 0 4px 4px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    p:empty {
+        display: none;
+    }
+    h6 {
+        color: var(--color-card-title);
+        margin-bottom: var(--spacing-sm);
+    }
+    p {
+        @include fluid-type(12px, 16px);
+    }
+}
+.card__content__date {
+    display: flex;
+    align-items: center;
+    span {
+        @include fluid-type(10px, 12px);
+        text-transform: uppercase;
+    }
+    .icon {
+        margin-right: 5px;
+        margin-top: -3px;
+        color: var(--color-card-title);
+    }
+}
+.card__content__footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding-top: var(--spacing-sm);
+    margin-top: auto;
+
+    p,
+    button {
+        margin: 0;
+    }
+    .link {
+        @include fluid-type(10px, 15px);
+        color: var(--color--section);
+    }
+    &::before {
+        width: calc(100% + 30px);
+        height: 1px;
+        background: var(--color-black);
+        position: absolute;
+        content: '';
+        left: -15px;
+        top: 0;
+        opacity: 0.1;
+    }
+}

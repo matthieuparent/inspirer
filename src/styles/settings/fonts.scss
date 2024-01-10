@@ -1,0 +1,22 @@
+/* ==========================================================================
+   FONTS / SETTINGS
+   ========================================================================== */
+/// Font family
+
+// font-family: 'Alfa Slab One', cursive;
+// font-family: 'Arvo', serif;
+// font-family: 'Asap', sans-serif;
+// font-family: 'Just Another Hand', cursive;
+:root {
+    --font-primary: 'Asap', sans-serif;
+    --font-secondary: 'Arvo', sans-serif;
+
+    --font-title-primary: 'Alfa Slab One', cursive;
+    --font-title-secondary: 'Just Another Hand', cursive;
+
+    --font-size-content: 1.125rem;
+
+    /// Grosseur des textes
+    --font-size-h1: 4rem;
+    --font-size-h2: 1.5rem;
+}

@@ -1,0 +1,51 @@
+/* ==========================================================================
+   buttons / components
+   ========================================================================== */
+
+.button {
+    background: var(--color-secondary);
+    font-family: var(--font-secondary);
+    padding: 0.5em 1.5em;
+    @include fluid-type(18px, 26px);
+    color: var(--color-white);
+    border-radius: 1.15em;
+    // border: 5px var(--color-secondary) solid;
+    box-shadow: -2px -2px 7px rgba(230, 235, 238, 0.2),
+        2px 2px 11.2574px #000000;
+    transition: all 0.2s $ease-out-quad;
+    display: inline-block;
+
+    &:hover {
+        box-shadow: 2px 2px 7px rgba(230, 235, 238, 0.2),
+            -2px -2px 11.2574px #000000;
+        color: var(--color-white);
+        text-decoration: none;
+    }
+    &--marine {
+        background: var(--color-primary);
+    }
+    &--green {
+        background: var(--color-secondary);
+        box-shadow: -5px -5px 10px rgba(230, 235, 238, 0.3),
+            5px 5px 10px rgba(51, 51, 51, 0.5);
+
+        &:hover {
+            box-shadow: 5px 5px 10px rgba(230, 235, 238, 0.3),
+                -5px -5px 10px rgba(51, 51, 51, 0.5);
+        }
+    }
+}
+
+.btn-play {
+    background: var(--color-secondary);
+    border-radius: 100%;
+    width: 84px;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+    color: var(--color-white);
+    cursor: pointer;
+}

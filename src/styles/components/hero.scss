@@ -1,0 +1,99 @@
+/* ==========================================================================
+   hero / components
+   ========================================================================== */
+
+.hero {
+    --color--section: var(--color-lightblue);
+    --color-content: var(--color-primary);
+    --color--highlight: var(--color-quaternary);
+
+    height: 90vh;
+    min-height: 800px;
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &.hero--page {
+        align-items: flex-end;
+
+        .hero__content {
+            background: var(--color--section);
+            color: var(--color-content);
+            padding: 50px;
+            width: 100%;
+            h1 {
+                @include fluid-type(20px, 44px);
+                // width: 90%;
+                margin: 0 auto;
+                text-align: right;
+                position: relative;
+                strong {
+                    font-family: inherit;
+                    font-size: inherit;
+                    display: inline;
+                    text-transform: uppercase;
+                    color: var(--color--highlight);
+                    letter-spacing: inherit;
+                }
+                .icon {
+                    color: var(--color--highlight);
+                    position: absolute;
+                    right: 0;
+                    bottom: 5px;
+                    transform: rotate(0) translateX(110%);
+                    &--revert {
+                        transform: rotate(180deg) translateX(-110%);
+                    }
+                }
+            }
+            &::before {
+                background-image: linear-gradient(
+                    to left top,
+                    var(--color--section) 0%,
+                    var(--color--section) 50%,
+                    transparent 51%
+                );
+                content: '';
+                display: block;
+                width: 120%;
+                left: -10%;
+                height: 150px;
+                position: absolute;
+                top: -150px;
+            }
+        }
+    }
+}
+.hero__content {
+    position: relative;
+    margin-top: var(--spacing-xl);
+    z-index: 3;
+}
+.hero__media {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+    .image {
+        height: 100%;
+    }
+    video,
+    img:not(.hero__media__logo) {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.hero__media__logo {
+    position: absolute;
+    top: 120px;
+    left: var(--spacing-md);
+    z-index: 2;
+    height: 30vh;
+}

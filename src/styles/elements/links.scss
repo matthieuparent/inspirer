@@ -1,0 +1,41 @@
+/* ==========================================================================
+   LINKS / ELEMENTS
+   Style de base de tous les liens et bouton du site
+   ========================================================================== */
+
+a {
+    color: var(--color-primary);
+    text-decoration: none;
+
+    &:hover {
+        color: var(--color-primary);
+        text-decoration: underline;
+    }
+}
+.link {
+    color: var(--color-secondary);
+    background: none;
+    border: 0;
+    outline: none;
+    @include fluid-type(12px, 18px);
+    letter-spacing: 1.25px;
+    font-family: var(--font-secondary);
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+
+    .icon {
+        margin-left: var(--spacing-xs);
+        transition: 0.4s transform $ease-out-quad;
+        width: 1.5em;
+        height: 1.5em;
+    }
+
+    &:hover {
+        color: var(--color-white);
+        text-decoration: none;
+        .icon {
+            transform: translate(5px, -2px) rotate(-15deg);
+        }
+    }
+}

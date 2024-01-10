@@ -1,0 +1,272 @@
+/* ==========================================================================
+   form / component
+   ========================================================================== */
+.b-form {
+    --color-title: var(--color-primary);
+
+    .title {
+        margin-top: 20px;
+
+        &:before {
+            height: 4px;
+            width: 30%;
+            content: '';
+            background: var(--color-secondary);
+            position: absolute;
+            top: -30px;
+            left: -5px;
+        }
+        .icon {
+            color: var(--color-senary);
+        }
+    }
+}
+.gform_heading {
+    margin-bottom: var(--spacing-nm);
+}
+.gform_body {
+    // Theme
+    --input-padding: 1em;
+    --input-radius: 3px;
+}
+.gform_validation_errors {
+    display: none;
+}
+.gform_fields {
+    grid-row-gap: 40px !important;
+}
+
+input:not(.button),
+textarea {
+    border-radius: var(--input-radius);
+    border: 1px solid var(--color-primary-light);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    font-family: var(--font-primary);
+    outline: none;
+    padding: var(--input-padding) !important;
+    font-size: 20px !important;
+
+    /* Change the white to any color */
+    &:-webkit-autofill,
+    &:-webkit-autofill:active {
+        -webkit-box-shadow: inset 0 0 0 40px var(--color-white) !important;
+        -webkit-text-fill-color: inherit !important;
+    }
+
+    // hover
+    &:hover {
+        border-color: var(--color-black);
+        -webkit-box-shadow: inset 0 0 0 1000px var(--color-white) !important;
+    }
+
+    &:focus,
+    &:-webkit-autofill:focus,
+    &:focus + .input__label::before {
+        color: var(--color-secondary);
+        border-color: var(--color-secondary); // mettre --color-primary
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+        -webkit-box-shadow: inset 0 0 0 100% var(--color-white) !important;
+    }
+
+    // placeholder
+    &::placeholder {
+        color: var(--color-neutral-dark);
+    }
+}
+.ginput_container_consent,
+.gchoice {
+    position: relative;
+    --active-scale: 1;
+
+    .gfield-choice-input,
+    input[type='checkbox'] {
+        opacity: 0;
+        position: absolute;
+        z-index: -1;
+        width: 0;
+    }
+
+    label {
+        --size: 22px;
+
+        cursor: pointer;
+        // overflow: hidden;
+        position: relative;
+        padding-left: calc(var(--size) + var(--spacing-sm));
+
+        &::before,
+        &::after {
+            content: '';
+            height: var(--size);
+            left: 0;
+            position: absolute;
+            top: 0;
+            width: var(--size);
+        }
+
+        &::before {
+            background-color: var(--color-white);
+            border-radius: var(--input-radius);
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+        }
+        &::after {
+            opacity: 0;
+            transform: scale(0);
+            transition: all 0.4s $ease-out-expo;
+        }
+    }
+
+    // checked
+    .gfield-choice-input:checked + label,
+    input[type='checkbox']:checked + label {
+        &::after {
+            opacity: 1;
+            transform: scale(var(--active-scale)) rotate(45deg);
+        }
+    }
+}
+.ginput_container_radio,
+.ginput_container_checkbox,
+.ginput_container_consent {
+    margin-top: 20px;
+}
+.gfield_radio {
+    display: grid;
+    gap: 20px;
+}
+
+.gfield_checkbox,
+.ginput_container_consent {
+    label {
+        font-size: 15px;
+    }
+    label::after {
+        // background: url('../assets/images/icon-check.svg') no-repeat 50% 50%;
+        // background-size: 50%;
+        --active-scale: 0.8;
+        left: 6px;
+        top: 2px;
+        width: 0.6em;
+        height: 1em;
+        border: solid var(--color-black);
+        border-width: 0 0.2em 0.2em 0;
+        // transform: rotate(45deg) scale(0);
+    }
+}
+
+.gfield_radio {
+    label {
+        &::before {
+            border-radius: 100%;
+        }
+
+        &::after {
+            --active-scale: 0.4;
+
+            background: var(--color-black);
+            border-radius: 100%;
+        }
+    }
+}
+.gfield_label:not(legend) {
+    background: white;
+    position: absolute;
+    padding: 0 8px !important;
+    transform: translate(10px, -50%);
+    font-family: var(--font-primary);
+    font-weight: normal;
+    z-index: 2;
+}
+
+.gform_body .gfield .gfield_validation_message {
+    padding: 5px;
+    border: none;
+    background: none;
+    margin: 0 0 10px;
+    &::before {
+        content: '!';
+        padding-right: 5px;
+        font-weight: bold;
+        font-family: var(--font-secondary);
+    }
+}
+
+// textarea
+.textarea {
+    .input__element {
+        resize: vertical;
+        height: 100px;
+    }
+}
+
+/*
+   errors
+   ========================================================================== */
+.error {
+    .input__element,
+    .check .input__label::before,
+    .radio .input__label::before {
+        box-shadow: inset 0 0 0 3px var(--color-fail);
+    }
+    .input__label {
+        color: var(--color-fail);
+    }
+}
+
+.gform_button {
+    cursor: pointer;
+    border: none;
+    box-shadow: -12px -12px 20px rgba(255, 255, 255, 0.8),
+        10px 10px 20px rgba(166, 180, 200, 0.7);
+    padding: 25px 20px !important;
+    color: var(--color-black);
+    background: linear-gradient(134.17deg, #e6ebee 4.98%, #e6e9ef 94.88%);
+    border-radius: 40px;
+    @media screen and (max-width: $breakpoint-sm) {
+        border-radius: 20px;
+        padding: 10px !important;
+    }
+    &:hover {
+        background: var(--color-secondary);
+        color: var(--color-black);
+    }
+}
+
+// select
+.ginput_container_select {
+    position: relative;
+
+    select {
+        padding: var(--input-padding) !important;
+        font-size: 20px !important;
+        border-radius: var(--input-radius);
+        border: 1px solid var(--color-primary-light);
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+        // A reset of styles, including removing the default dropdown arrow
+        appearance: none;
+        padding-right: var(--spacing-md);
+
+        // invalid specific for select
+        &:invalid {
+            color: var(--color-neutral-dark);
+        }
+    }
+    option {
+        background-color: var(--color-white);
+        color: var(--color-black);
+    }
+
+    // fleche
+    &::after {
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 13.1l-8-8 2.1-2.2 5.9 5.9 5.9-5.9 2.1 2.2z'/%3E%3C/svg%3E");
+        height: 20px;
+        width: 20px;
+        background-size: cover;
+        position: absolute;
+        top: 50%;
+        right: 20px;
+        content: '';
+        transform: translateY(-45%);
+    }
+}
